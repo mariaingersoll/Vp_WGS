@@ -1,0 +1,405 @@
+Gene	Annotation_F	Isolates_F	Annotation_En	Isolates_En
+nagE_2	PTS system N-acetylglucosamine-specific EIICBA component	56	PTS system N-acetylglucosamine-specific EIICBA component	63
+pdxA	4-hydroxythreonine-4-phosphate dehydrogenase	56	4-hydroxythreonine-4-phosphate dehydrogenase	63
+dauR_2	Transcriptional regulator DauR	56	Transcriptional regulator DauR	63
+aspT	Aspartate/alanine antiporter	56	Aspartate/alanine antiporter	63
+mukB	Chromosome partition protein MukB	56	Chromosome partition protein MukB	63
+dinF	DNA damage-inducible protein F	56	DNA damage-inducible protein F	63
+cysG_2	Siroheme synthase	56	Siroheme synthase	63
+ftsY_2	Signal recognition particle receptor FtsY	56	Signal recognition particle receptor FtsY	63
+frdB	Fumarate reductase iron-sulfur subunit	56	Fumarate reductase iron-sulfur subunit	63
+yknY_3	putative ABC transporter ATP-binding protein YknY	56	putative ABC transporter ATP-binding protein YknY	63
+ppnN	Pyrimidine/purine nucleotide 5'-monophosphate nucleosidase	56	Pyrimidine/purine nucleotide 5'-monophosphate nucleosidase	63
+hisS	Histidine--tRNA ligase	56	Histidine--tRNA ligase	63
+cpg2	Carboxypeptidase G2	56	Carboxypeptidase G2	63
+nupX_2	Putative nucleoside permease NupX	56	Putative nucleoside permease NupX	63
+nfsB	Oxygen-insensitive NAD(P)H nitroreductase	56	Oxygen-insensitive NAD(P)H nitroreductase	63
+thiD	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	56	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	63
+ribX	Riboflavin transport system permease protein RibX	56	Riboflavin transport system permease protein RibX	63
+rsmB	Ribosomal RNA small subunit methyltransferase B	56	Ribosomal RNA small subunit methyltransferase B	63
+mnmE	tRNA modification GTPase MnmE	56	tRNA modification GTPase MnmE	63
+parA	Plasmid partition protein A	56	Plasmid partition protein A	63
+oppC_2	Oligopeptide transport system permease protein OppC	56	Oligopeptide transport system permease protein OppC	63
+glnM_1	hypothetical protein	56	hypothetical protein	63
+era	GTPase Era	56	GTPase Era	63
+rpmD	50S ribosomal protein L30	56	50S ribosomal protein L30	63
+rpsU	30S ribosomal protein S21	56	30S ribosomal protein S21	63
+rplW	50S ribosomal protein L23	56	50S ribosomal protein L23	63
+acpP_3	Acyl carrier protein	56	Acyl carrier protein	63
+glnB_1	Nitrogen regulatory protein P-II	56	Nitrogen regulatory protein P-II	63
+cydX	Cytochrome bd-I ubiquinol oxidase subunit X	56	Cytochrome bd-I ubiquinol oxidase subunit X	63
+ptsH	Phosphocarrier protein HPr	56	Phosphocarrier protein HPr	63
+rpmJ	50S ribosomal protein L36	56	50S ribosomal protein L36	63
+rpsJ	30S ribosomal protein S10	56	30S ribosomal protein S10	63
+crp_2	cAMP-activated global transcriptional regulator CRP	56	cAMP-activated global transcriptional regulator CRP	63
+rpmH	50S ribosomal protein L34	56	50S ribosomal protein L34	63
+metJ	Met repressor	56	Met repressor	63
+nrdR	Transcriptional repressor NrdR	56	Transcriptional repressor NrdR	63
+crr	PTS system glucose-specific EIIA component	56	PTS system glucose-specific EIIA component	63
+rplV	50S ribosomal protein L22	56	50S ribosomal protein L22	63
+rpsP	30S ribosomal protein S16	56	30S ribosomal protein S16	63
+rppH_1	RNA pyrophosphohydrolase	56	RNA pyrophosphohydrolase	63
+ftsA	Cell division protein FtsA	56	Cell division protein FtsA	63
+rplM	50S ribosomal protein L13	56	50S ribosomal protein L13	63
+cspD	Cold shock-like protein CspD	56	Cold shock-like protein CspD	63
+rpsS	30S ribosomal protein S19	56	30S ribosomal protein S19	63
+uvrY	Response regulator UvrY	56	Response regulator UvrY	63
+murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	56	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	63
+ahpC_2	Alkyl hydroperoxide reductase C	56	Alkyl hydroperoxide reductase C	63
+occP	Octopine permease ATP-binding protein P	56	Octopine permease ATP-binding protein P	63
+yxeN	putative amino-acid permease protein YxeN	56	putative amino-acid permease protein YxeN	63
+cheY	Chemotaxis protein CheY	56	Chemotaxis protein CheY	63
+rnfA	Ion-translocating oxidoreductase complex subunit A	56	Ion-translocating oxidoreductase complex subunit A	63
+iscU	Iron-sulfur cluster assembly scaffold protein IscU	56	Iron-sulfur cluster assembly scaffold protein IscU	63
+ybaB	Nucleoid-associated protein YbaB	56	Nucleoid-associated protein YbaB	63
+rpmF	50S ribosomal protein L32	56	50S ribosomal protein L32	63
+rplU	50S ribosomal protein L21	56	50S ribosomal protein L21	63
+trxA	Thioredoxin 1	56	Thioredoxin 1	63
+fabG_5	3-oxoacyl-[acyl-carrier-protein] reductase FabG	56	3-oxoacyl-[acyl-carrier-protein] reductase FabG	63
+clpP	ATP-dependent Clp protease proteolytic subunit	56	ATP-dependent Clp protease proteolytic subunit	63
+rpsN	30S ribosomal protein S14	56	30S ribosomal protein S14	63
+rpmC	50S ribosomal protein L29	56	50S ribosomal protein L29	63
+uvrC	UvrABC system protein C	56	UvrABC system protein C	63
+ompW	Outer membrane protein W	56	Outer membrane protein W	63
+cysA	Sulfate/thiosulfate import ATP-binding protein CysA	56	Sulfate/thiosulfate import ATP-binding protein CysA	63
+kefC_2	Glutathione-regulated potassium-efflux system protein KefC	56	Glutathione-regulated potassium-efflux system protein KefC	63
+yheS	putative ABC transporter ATP-binding protein YheS	56	putative ABC transporter ATP-binding protein YheS	63
+astA	Arginine N-succinyltransferase	56	Arginine N-succinyltransferase	63
+thrB	Homoserine kinase	56	Homoserine kinase	63
+dusB	tRNA-dihydrouridine synthase B	56	tRNA-dihydrouridine synthase B	63
+ispD	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	56	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	63
+pfs	Aminodeoxyfutalosine nucleosidase	56	Aminodeoxyfutalosine nucleosidase	63
+cysW_2	hypothetical protein	56	hypothetical protein	63
+glpQ	Glycerophosphodiester phosphodiesterase, periplasmic	56	Glycerophosphodiester phosphodiesterase, periplasmic	63
+pmbA_2	Metalloprotease PmbA	56	Metalloprotease PmbA	63
+tldD_2	Metalloprotease TldD	56	Metalloprotease TldD	63
+argH	Argininosuccinate lyase	56	Argininosuccinate lyase	63
+aroB	3-dehydroquinate synthase	56	3-dehydroquinate synthase	63
+flgH_1	Flagellar L-ring protein	56	Flagellar L-ring protein	63
+dlsT	putative serine transporter	56	putative serine transporter	63
+chiA_1	Chitinase A	56	Chitinase A	63
+truC	tRNA pseudouridine synthase C	56	tRNA pseudouridine synthase C	63
+glyA	Serine hydroxymethyltransferase	56	Serine hydroxymethyltransferase	63
+mrdB_2	Peptidoglycan glycosyltransferase MrdB	56	Peptidoglycan glycosyltransferase MrdB	63
+bpt	Aspartate/glutamate leucyltransferase	56	Aspartate/glutamate leucyltransferase	63
+ynjF	Inner membrane protein YnjF	56	Inner membrane protein YnjF	63
+fliQ_1	Flagellar biosynthetic protein FliQ	56	Flagellar biosynthetic protein FliQ	63
+recJ	Single-stranded-DNA-specific exonuclease RecJ	56	Single-stranded-DNA-specific exonuclease RecJ	63
+cusA	Cation efflux system protein CusA	56	Cation efflux system protein CusA	63
+petB	Cytochrome b	56	Cytochrome b	63
+flgG_2	Flagellar basal-body rod protein FlgG	56	Flagellar basal-body rod protein FlgG	63
+flgF_2	Flagellar basal-body rod protein FlgF	56	Flagellar basal-body rod protein FlgF	63
+pilT_2	Twitching mobility protein	56	Twitching mobility protein	63
+glyS	Glycine--tRNA ligase beta subunit	56	Glycine--tRNA ligase beta subunit	63
+mfd	Transcription-repair-coupling factor	56	Transcription-repair-coupling factor	63
+cysN	Sulfate adenylyltransferase subunit 1	56	Sulfate adenylyltransferase subunit 1	63
+sapC	Putrescine export system permease protein SapC	56	Putrescine export system permease protein SapC	63
+hisA	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	56	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	63
+yccS	Inner membrane protein YccS	56	Inner membrane protein YccS	63
+deoA	Thymidine phosphorylase	56	Thymidine phosphorylase	63
+ptsI	Phosphoenolpyruvate-protein phosphotransferase	56	Phosphoenolpyruvate-protein phosphotransferase	63
+rplC	50S ribosomal protein L3	56	50S ribosomal protein L3	63
+priA	Primosomal protein N'	56	Primosomal protein N'	63
+pstB3	Phosphate import ATP-binding protein PstB 3	56	Phosphate import ATP-binding protein PstB 3	63
+murG	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	56	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	63
+copA_2	Copper-exporting P-type ATPase	56	Copper-exporting P-type ATPase	63
+dmlR_6	HTH-type transcriptional regulator DmlR	56	HTH-type transcriptional regulator DmlR	63
+prfC	Peptide chain release factor RF3	56	Peptide chain release factor RF3	63
+ygbN	Inner membrane permease YgbN	56	Inner membrane permease YgbN	63
+pstC1	hypothetical protein	56	hypothetical protein	63
+ravA	ATPase RavA	56	ATPase RavA	63
+doeB_1	N-alpha-acetyl-L-2,4-diaminobutyric acid deacetylase	56	N-alpha-acetyl-L-2,4-diaminobutyric acid deacetylase	63
+smg	Protein Smg	56	Protein Smg	63
+recG	ATP-dependent DNA helicase RecG	56	ATP-dependent DNA helicase RecG	63
+thyA	Thymidylate synthase	56	Thymidylate synthase	63
+fumE	Fumarase E	56	Fumarase E	63
+fruA_1	PTS system fructose-specific EIIABC component	56	PTS system fructose-specific EIIABC component	63
+lysA	Diaminopimelate decarboxylase	56	Diaminopimelate decarboxylase	63
+tatC	Sec-independent protein translocase protein TatC	56	Sec-independent protein translocase protein TatC	63
+uspA_3	Universal stress protein A	56	Universal stress protein A	63
+ilvG	Acetolactate synthase isozyme 2 large subunit	56	Acetolactate synthase isozyme 2 large subunit	63
+flaB	Flagellin B	56	Flagellin B	63
+btsR_1	Transcriptional regulatory protein BtsR	56	Transcriptional regulatory protein BtsR	63
+galE_2	UDP-glucose 4-epimerase	56	UDP-glucose 4-epimerase	63
+manA_2	Mannose-6-phosphate isomerase	56	Mannose-6-phosphate isomerase	63
+rluB	Ribosomal large subunit pseudouridine synthase B	56	Ribosomal large subunit pseudouridine synthase B	63
+trpB_2	Tryptophan synthase beta chain	56	Tryptophan synthase beta chain	63
+trpA	Tryptophan synthase alpha chain	56	Tryptophan synthase alpha chain	63
+gltP_2	Proton/glutamate-aspartate symporter	56	Proton/glutamate-aspartate symporter	63
+sdaC_1	Serine transporter	56	Serine transporter	63
+maa_2	Maltose O-acetyltransferase	56	Maltose O-acetyltransferase	63
+psuT	Putative pseudouridine transporter	56	Putative pseudouridine transporter	63
+fkpA	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA	56	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA	63
+astD	N-succinylglutamate 5-semialdehyde dehydrogenase	56	N-succinylglutamate 5-semialdehyde dehydrogenase	63
+trpG	Anthranilate synthase component 2	56	Anthranilate synthase component 2	63
+mtnN	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	56	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	63
+prmA	Ribosomal protein L11 methyltransferase	56	Ribosomal protein L11 methyltransferase	63
+aroQ1	3-dehydroquinate dehydratase 1	56	3-dehydroquinate dehydratase 1	63
+actP	Cation/acetate symporter ActP	56	Cation/acetate symporter ActP	63
+pyrP	Uracil permease	56	Uracil permease	63
+purC	Phosphoribosylaminoimidazole-succinocarboxamide synthase	56	Phosphoribosylaminoimidazole-succinocarboxamide synthase	63
+xecA1	2-hydroxypropyl-CoM lyase	56	2-hydroxypropyl-CoM lyase	63
+cheA	hypothetical protein	56	hypothetical protein	63
+flhB_2	Flagellar biosynthetic protein FlhB	56	Flagellar biosynthetic protein FlhB	63
+ntrC	Anaerobic nitric oxide reductase transcription regulator NorR	56	Anaerobic nitric oxide reductase transcription regulator NorR	63
+pcnB	Poly(A) polymerase I	56	Poly(A) polymerase I	63
+pgm_1	Phosphoglucomutase	56	Phosphoglucomutase	63
+glpT	Glycerol-3-phosphate transporter	56	Glycerol-3-phosphate transporter	63
+glpK	Glycerol kinase	56	Glycerol kinase	63
+glpD	Aerobic glycerol-3-phosphate dehydrogenase	56	Aerobic glycerol-3-phosphate dehydrogenase	63
+argT	Lysine/arginine/ornithine-binding periplasmic protein	56	Lysine/arginine/ornithine-binding periplasmic protein	63
+hisM	Histidine transport system permease protein HisM	56	Histidine transport system permease protein HisM	63
+fadJ	Fatty acid oxidation complex subunit alpha	56	Fatty acid oxidation complex subunit alpha	63
+prmB	50S ribosomal protein L3 glutamine methyltransferase	56	50S ribosomal protein L3 glutamine methyltransferase	63
+fabB	3-oxoacyl-[acyl-carrier-protein] synthase 1	56	3-oxoacyl-[acyl-carrier-protein] synthase 1	63
+chbP	N,N'-diacetylchitobiose phosphorylase	56	N,N'-diacetylchitobiose phosphorylase	63
+exoI	Beta-hexosaminidase	56	Beta-hexosaminidase	63
+oppB_3	Oligopeptide transport system permease protein OppB	56	Oligopeptide transport system permease protein OppB	63
+todS	Sensor histidine kinase RcsC	56	Sensor histidine kinase RcsC	63
+tyrS_2	Tyrosine--tRNA ligase	56	Tyrosine--tRNA ligase	63
+fabV_1	Enoyl-[acyl-carrier-protein] reductase [NADH]	56	Trans-2-enoyl-CoA reductase [NADH]	63
+radD	Putative DNA repair helicase RadD	56	Putative DNA repair helicase RadD	63
+rplY	50S ribosomal protein L25	56	50S ribosomal protein L25	63
+napA	Periplasmic nitrate reductase	56	Periplasmic nitrate reductase	63
+mreC	Cell shape-determining protein MreC	56	Cell shape-determining protein MreC	63
+potE	Putrescine transporter PotE	56	Putrescine transporter PotE	63
+kdsA	2-dehydro-3-deoxyphosphooctonate aldolase	56	2-dehydro-3-deoxyphosphooctonate aldolase	63
+hemA	Glutamyl-tRNA reductase	56	Glutamyl-tRNA reductase	63
+plsX	Phosphate acyltransferase	56	Phosphate acyltransferase	63
+bicA_1	Bicarbonate transporter BicA	56	Bicarbonate transporter BicA	63
+napA_3	Periplasmic nitrate reductase	56	Periplasmic nitrate reductase	63
+pheA	Bifunctional chorismate mutase/prephenate dehydratase	56	Bifunctional chorismate mutase/prephenate dehydratase	63
+ettA	Energy-dependent translational throttle protein EttA	56	Energy-dependent translational throttle protein EttA	63
+tupA	Tungstate-binding protein TupA	56	Tungstate-binding protein TupA	63
+lptB_2	Lipopolysaccharide export system ATP-binding protein LptB	56	Lipopolysaccharide export system ATP-binding protein LptB	63
+mobA	Molybdenum cofactor guanylyltransferase	56	Molybdenum cofactor guanylyltransferase	63
+nqrB	Na( )-translocating NADH-quinone reductase subunit B	56	Na( )-translocating NADH-quinone reductase subunit B	63
+rnfE	Ion-translocating oxidoreductase complex subunit E	56	Ion-translocating oxidoreductase complex subunit E	63
+argG	Argininosuccinate synthase	56	Argininosuccinate synthase	63
+PGdx_2	Hybrid peroxiredoxin hyPrx5	56	hypothetical protein	63
+pilQ	Type IV pilus biogenesis and competence protein PilQ	56	Type IV pilus biogenesis and competence protein PilQ	63
+rpsF	30S ribosomal protein S6	56	30S ribosomal protein S6	63
+dnaB	Replicative DNA helicase	56	Replicative DNA helicase	63
+group_3828	hypothetical protein	56	hypothetical protein	63
+proA	Gamma-glutamyl phosphate reductase	56	Gamma-glutamyl phosphate reductase	63
+xseB	Exodeoxyribonuclease 7 small subunit	56	Exodeoxyribonuclease 7 small subunit	63
+pgm_2	Phosphoglucomutase	56	Phosphoglucomutase	63
+flgC_1	Flagellar basal-body rod protein FlgC	56	Flagellar basal-body rod protein FlgC	63
+apt	Adenine phosphoribosyltransferase	56	Adenine phosphoribosyltransferase	63
+deoR	Deoxyribonucleoside regulator	56	Deoxyribonucleoside regulator	63
+pyrH	Uridylate kinase	56	Uridylate kinase	63
+skp	hypothetical protein	56	hypothetical protein	63
+dacA_3	D-alanyl-D-alanine carboxypeptidase DacA	56	D-alanyl-D-alanine carboxypeptidase DacA	63
+purR	HTH-type transcriptional repressor PurR	56	HTH-type transcriptional repressor PurR	63
+torR	TorCAD operon transcriptional regulatory protein TorR	56	TorCAD operon transcriptional regulatory protein TorR	63
+argP	HTH-type transcriptional regulator ArgP	56	HTH-type transcriptional regulator ArgP	63
+sdhE	FAD assembly factor SdhE	56	FAD assembly factor SdhE	63
+gmhB	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase	56	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase	63
+rlmM	Ribosomal RNA large subunit methyltransferase M	56	Ribosomal RNA large subunit methyltransferase M	63
+mukF	Chromosome partition protein MukF	56	Chromosome partition protein MukF	63
+mukE	Chromosome partition protein MukE	56	Chromosome partition protein MukE	63
+djlA	Co-chaperone protein DjlA	56	Co-chaperone protein DjlA	63
+yijD	Inner membrane protein YijD	56	Inner membrane protein YijD	63
+lexA	LexA repressor	56	LexA repressor	63
+plsB	Glycerol-3-phosphate acyltransferase	56	Glycerol-3-phosphate acyltransferase	63
+rpsA	30S ribosomal protein S1	56	30S ribosomal protein S1	63
+alaA	Glutamate-pyruvate aminotransferase AlaA	56	Glutamate-pyruvate aminotransferase AlaA	63
+lptF	Lipopolysaccharide export system permease protein LptF	56	Lipopolysaccharide export system permease protein LptF	63
+fumA	Fumarate hydratase class I, aerobic	56	Fumarate hydratase class I, aerobic	63
+cmoA	Carboxy-S-adenosyl-L-methionine synthase	56	Carboxy-S-adenosyl-L-methionine synthase	63
+cydB	Cytochrome bd-I ubiquinol oxidase subunit 2	56	Cytochrome bd-I ubiquinol oxidase subunit 2	63
+tolB	Tol-Pal system protein TolB	56	Tol-Pal system protein TolB	63
+gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P) ]	56	Glycerol-3-phosphate dehydrogenase [NAD(P) ]	63
+dppC_2	Dipeptide transport system permease protein DppC	56	Dipeptide transport system permease protein DppC	63
+fliF_1	hypothetical protein	56	Flagellar M-ring protein	63
+lafT	Chemotaxis protein LafT	56	Chemotaxis protein LafT	63
+cysL	HTH-type transcriptional regulator CysL	56	HTH-type transcriptional regulator CysL	63
+rnhB	Ribonuclease HII	56	Ribonuclease HII	63
+yejB	Inner membrane ABC transporter permease protein YejB	56	Inner membrane ABC transporter permease protein YejB	63
+xerD_1	Tyrosine recombinase XerD	56	Tyrosine recombinase XerD	63
+srmB_2	ATP-dependent RNA helicase SrmB	56	ATP-dependent RNA helicase SrmB	63
+fadH	2,4-dienoyl-CoA reductase	56	2,4-dienoyl-CoA reductase	63
+rbsC	Ribose import permease protein RbsC	56	Ribose import permease protein RbsC	63
+epsF_1	Type II secretion system protein F	56	Type II secretion system protein F	63
+satP	Succinate-acetate/proton symporter SatP	56	Succinate-acetate/proton symporter SatP	63
+ispG	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	56	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	63
+pepB	Peptidase B	56	Peptidase B	63
+fdx	2Fe-2S ferredoxin	56	2Fe-2S ferredoxin	63
+iscR	HTH-type transcriptional regulator IscR	56	HTH-type transcriptional regulator IscR	63
+suhB	Inositol-1-monophosphatase	56	Inositol-1-monophosphatase	63
+flgI_2	Flagellar P-ring protein	56	Flagellar P-ring protein	63
+flgH_2	Flagellar L-ring protein	56	Flagellar L-ring protein	63
+cheR1	Chemotaxis protein methyltransferase 1	56	Chemotaxis protein methyltransferase 1	63
+fadA	3-ketoacyl-CoA thiolase	56	3-ketoacyl-CoA thiolase	63
+mneA	Putative manganese exporter	56	Putative manganese exporter	63
+lolE	Lipoprotein-releasing system transmembrane protein LolE	56	Lipoprotein-releasing system transmembrane protein LolE	63
+lolC	Lipoprotein-releasing system transmembrane protein LolC	56	Lipoprotein-releasing system transmembrane protein LolC	63
+cysC	Adenylyl-sulfate kinase	56	Adenylyl-sulfate kinase	63
+ubiX	Flavin prenyltransferase UbiX	56	Flavin prenyltransferase UbiX	63
+focA_1	putative formate transporter 1	56	putative formate transporter 1	63
+ppiB_1	Peptidyl-prolyl cis-trans isomerase B	56	Peptidyl-prolyl cis-trans isomerase B	63
+hisD	Histidinol dehydrogenase	56	Histidinol dehydrogenase	63
+ileS	Isoleucine--tRNA ligase	56	Isoleucine--tRNA ligase	63
+dcuB	Anaerobic C4-dicarboxylate transporter DcuB	56	Anaerobic C4-dicarboxylate transporter DcuB	63
+focA_2	putative formate transporter 1	56	putative formate transporter 1	63
+gltP_1	Proton/glutamate-aspartate symporter	56	Proton/glutamate-aspartate symporter	63
+rimO	hypothetical protein	56	hypothetical protein	63
+cysK_2	Cysteine synthase A	56	Cysteine synthase A	63
+malQ	4-alpha-glucanotransferase	56	4-alpha-glucanotransferase	63
+rpsC	30S ribosomal protein S3	56	30S ribosomal protein S3	63
+mnmA	tRNA-specific 2-thiouridylase MnmA	56	tRNA-specific 2-thiouridylase MnmA	63
+ansA	L-asparaginase 1	56	L-asparaginase 1	63
+rpoA	DNA-directed RNA polymerase subunit alpha	56	DNA-directed RNA polymerase subunit alpha	63
+mcpP_1	hypothetical protein	56	hypothetical protein	63
+prlC	Oligopeptidase A	56	Oligopeptidase A	63
+add	Adenosine deaminase	56	Adenosine deaminase	63
+phoU	Phosphate-specific transport system accessory protein PhoU	56	Phosphate-specific transport system accessory protein PhoU	63
+trkI	Trk system potassium uptake protein TrkI	56	Trk system potassium uptake protein TrkI	63
+def1	Peptide deformylase 1	56	Peptide deformylase 1	63
+purE	N5-carboxyaminoimidazole ribonucleotide mutase	56	N5-carboxyaminoimidazole ribonucleotide mutase	63
+ompR_2	Transcriptional regulatory protein OmpR	56	Transcriptional regulatory protein OmpR	63
+endo I	Chitodextrinase	56	Chitodextrinase	63
+mprA_4	hypothetical protein	56	hypothetical protein	63
+gcvT	Aminomethyltransferase	56	Aminomethyltransferase	63
+nagB	Glucosamine-6-phosphate deaminase	56	Glucosamine-6-phosphate deaminase	63
+ccmC	Heme exporter protein C	56	Heme exporter protein C	63
+ccmB	Heme exporter protein B	56	Heme exporter protein B	63
+ccmA	Cytochrome c biogenesis ATP-binding export protein CcmA	56	Cytochrome c biogenesis ATP-binding export protein CcmA	63
+cheB1	Protein-glutamate methylesterase/protein-glutamine glutaminase 1	56	Protein-glutamate methylesterase/protein-glutamine glutaminase 1	63
+yxeO	putative amino-acid import ATP-binding protein YxeO	56	putative amino-acid import ATP-binding protein YxeO	63
+recF	DNA replication and repair protein RecF	56	DNA replication and repair protein RecF	63
+rsmD	Ribosomal RNA small subunit methyltransferase D	56	Ribosomal RNA small subunit methyltransferase D	63
+secD_1	Protein translocase subunit SecD	56	Protein translocase subunit SecD	63
+dapF	Diaminopimelate epimerase	56	Diaminopimelate epimerase	63
+rraB	Regulator of ribonuclease activity B	56	Regulator of ribonuclease activity B	63
+argF	Ornithine carbamoyltransferase	56	Ornithine carbamoyltransferase	63
+yrbG	Inner membrane protein YrbG	56	Inner membrane protein YrbG	63
+ubiD	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	56	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	63
+sdhC	Succinate dehydrogenase cytochrome b556 subunit	56	Succinate dehydrogenase cytochrome b556 subunit	63
+speA	Biosynthetic arginine decarboxylase	56	Biosynthetic arginine decarboxylase	63
+hldE	Bifunctional protein HldE	56	Bifunctional protein HldE	63
+typA	GTP-binding protein TypA/BipA	56	GTP-binding protein TypA/BipA	63
+yhhQ	Queuosine precursor transporter	56	Queuosine precursor transporter	63
+yaaA	Peroxide stress resistance protein YaaA	56	Peroxide stress resistance protein YaaA	63
+alsT_2	Amino-acid carrier protein AlsT	56	Amino-acid carrier protein AlsT	63
+ftnA	putative bacterial non-heme ferritin	56	putative bacterial non-heme ferritin	63
+ilvE	Branched-chain-amino-acid aminotransferase	56	Branched-chain-amino-acid aminotransferase	63
+rhlB	ATP-dependent RNA helicase RhlB	56	ATP-dependent RNA helicase RhlB	63
+pdxJ	Pyridoxine 5'-phosphate synthase	56	Pyridoxine 5'-phosphate synthase	63
+trmD	tRNA (guanine-N(1)-)-methyltransferase	56	tRNA (guanine-N(1)-)-methyltransferase	63
+proS	Proline--tRNA ligase	56	Proline--tRNA ligase	63
+cheV_1	Chemotaxis protein CheV	56	Chemotaxis protein CheV	63
+ubiG	Ubiquinone biosynthesis O-methyltransferase	56	Ubiquinone biosynthesis O-methyltransferase	63
+rpsG	30S ribosomal protein S7	56	30S ribosomal protein S7	63
+rpsL	30S ribosomal protein S12	56	30S ribosomal protein S12	63
+arcA_1	Aerobic respiration control protein ArcA	56	Aerobic respiration control protein ArcA	63
+narL_2	putative transcriptional regulatory protein NarL	56	putative transcriptional regulatory protein NarL	63
+ispF	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	56	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	63
+purM	Phosphoribosylformylglycinamidine cyclo-ligase	56	Phosphoribosylformylglycinamidine cyclo-ligase	63
+upp	Uracil phosphoribosyltransferase	56	Uracil phosphoribosyltransferase	63
+group_5281	hypothetical protein	56	hypothetical protein	63
+rbsA	Ribose import ATP-binding protein RbsA	56	Ribose import ATP-binding protein RbsA	63
+fliA	RNA polymerase sigma factor FliA	56	RNA polymerase sigma factor FliA	63
+ylxH	Flagellum site-determining protein YlxH	56	Flagellum site-determining protein YlxH	63
+fliI_2	Flagellum-specific ATP synthase	56	Flagellum-specific ATP synthase	63
+fliS_2	Flagellar secretion chaperone FliS	56	Flagellar secretion chaperone FliS	63
+luxR	HTH-type transcriptional regulator LuxR	56	HTH-type transcriptional regulator LuxR	63
+panB	3-methyl-2-oxobutanoate hydroxymethyltransferase	56	3-methyl-2-oxobutanoate hydroxymethyltransferase	63
+glpF	Glycerol uptake facilitator protein	56	Glycerol uptake facilitator protein	63
+fadI	3-ketoacyl-CoA thiolase FadI	56	3-ketoacyl-CoA thiolase FadI	63
+accD_2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	56	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	63
+ssb	Single-stranded DNA-binding protein	56	Single-stranded DNA-binding protein	63
+epsF_3	Type II secretion system protein F	56	Type II secretion system protein F	63
+erpA	Iron-sulfur cluster insertion protein ErpA	56	Iron-sulfur cluster insertion protein ErpA	63
+group_5353	putative ABC transporter ATP-binding protein	56	hypothetical protein	63
+mprA_1	Response regulator MprA	56	Response regulator MprA	63
+lptA	Lipopolysaccharide export system protein LptA	56	Lipopolysaccharide export system protein LptA	63
+lptB_3	Lipopolysaccharide export system ATP-binding protein LptB	56	Lipopolysaccharide export system ATP-binding protein LptB	63
+mreD	Rod shape-determining protein MreD	56	Rod shape-determining protein MreD	63
+ybhS	putative multidrug ABC transporter permease YbhS	56	putative multidrug ABC transporter permease YbhS	63
+pth	Peptidyl-tRNA hydrolase	56	Peptidyl-tRNA hydrolase	63
+fabH1	3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 1	56	3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 1	63
+raiA	Ribosome-associated inhibitor A	56	Ribosome-associated inhibitor A	63
+luxO_2	Luminescence regulatory protein LuxO	56	Luminescence regulatory protein LuxO	63
+uvrB	UvrABC system protein B	56	UvrABC system protein B	63
+nth	Endonuclease III	56	Endonuclease III	63
+pomA	Chemotaxis protein PomA	56	Chemotaxis protein PomA	63
+nagC	N-acetylglucosamine repressor	56	N-acetylglucosamine repressor	63
+flgG_1	Flagellar basal-body rod protein FlgG	56	Flagellar basal-body rod protein FlgG	63
+recR	Recombination protein RecR	56	Recombination protein RecR	63
+frr	Ribosome-recycling factor	56	Ribosome-recycling factor	63
+rlmH	Ribosomal RNA large subunit methyltransferase H	56	Ribosomal RNA large subunit methyltransferase H	63
+rsfS	Ribosomal silencing factor RsfS	56	Ribosomal silencing factor RsfS	63
+leuO_7	HTH-type transcriptional regulator LeuO	56	HTH-type transcriptional regulator LeuO	63
+leuC	3-isopropylmalate dehydratase large subunit	56	3-isopropylmalate dehydratase large subunit	63
+ydjZ	TVP38/TMEM64 family inner membrane protein YdjZ	56	TVP38/TMEM64 family inner membrane protein YdjZ	63
+mlc	Protein mlc	56	Protein mlc	63
+clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	56	ATP-dependent Clp protease ATP-binding subunit ClpX	63
+rph	Ribonuclease PH	56	Ribonuclease PH	63
+pyrE	Orotate phosphoribosyltransferase	56	Orotate phosphoribosyltransferase	63
+yfhL	Ferredoxin YfhL	56	Ferredoxin YfhL	63
+secB	Protein-export protein SecB	56	Protein-export protein SecB	63
+cysE	Serine acetyltransferase	56	Serine acetyltransferase	63
+ycdZ	Inner membrane protein YcdZ	56	Inner membrane protein YcdZ	63
+accA	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	56	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	63
+tolR_4	Tol-Pal system protein TolR	56	Tol-Pal system protein TolR	63
+murP	PTS system N-acetylmuramic acid-specific EIIBC component	56	PTS system N-acetylmuramic acid-specific EIIBC component	63
+folB	Dihydroneopterin aldolase	56	Dihydroneopterin aldolase	63
+ybiB	putative protein YbiB	56	putative protein YbiB	63
+nudE	ADP compounds hydrolase NudE	56	ADP compounds hydrolase NudE	63
+iscA	Iron-binding protein IscA	56	Iron-binding protein IscA	63
+iscS	Cysteine desulfurase IscS	56	Cysteine desulfurase IscS	63
+flgC_2	Flagellar basal-body rod protein FlgC	56	Flagellar basal-body rod protein FlgC	63
+cheV_4	Chemotaxis protein CheV	56	Chemotaxis protein CheV	63
+pilT_1	Twitching mobility protein	56	Twitching mobility protein	63
+acuI	putative acrylyl-CoA reductase AcuI	56	putative acrylyl-CoA reductase AcuI	63
+glyQ	Glycine--tRNA ligase alpha subunit	56	Glycine--tRNA ligase alpha subunit	63
+cysD	Sulfate adenylyltransferase subunit 2	56	Sulfate adenylyltransferase subunit 2	63
+fbp	Fructose-1,6-bisphosphatase class 1	56	Fructose-1,6-bisphosphatase class 1	63
+amy	hypothetical protein	56	hypothetical protein	63
+sapF	Putrescine export system ATP-binding protein SapF	56	Putrescine export system ATP-binding protein SapF	63
+hisC	Histidinol-phosphate aminotransferase	56	Histidinol-phosphate aminotransferase	63
+cadB	putative cadaverine/lysine antiporter	56	putative cadaverine/lysine antiporter	63
+yjiG	Inner membrane protein YjiG	56	Inner membrane protein YjiG	63
+deoB	Phosphopentomutase	56	Phosphopentomutase	63
+ytjB	hypothetical protein	56	hypothetical protein	63
+ubiK	Ubiquinone biosynthesis accessory factor UbiK	56	Ubiquinone biosynthesis accessory factor UbiK	63
+glgB	1,4-alpha-glucan branching enzyme GlgB	56	1,4-alpha-glucan branching enzyme GlgB	63
+rpsE	30S ribosomal protein S5	56	30S ribosomal protein S5	63
+rplB	50S ribosomal protein L2	56	50S ribosomal protein L2	63
+pstA1	Phosphate transport system permease protein PstA 1	56	Phosphate transport system permease protein PstA 1	63
+pstC	Phosphate transport system permease protein PstC	56	Phosphate transport system permease protein PstC	63
+pfkA	ATP-dependent 6-phosphofructokinase isozyme 1	56	ATP-dependent 6-phosphofructokinase isozyme 1	63
+purB	Adenylosuccinate lyase	56	Adenylosuccinate lyase	63
+gapA	Glyceraldehyde-3-phosphate dehydrogenase A	56	Glyceraldehyde-3-phosphate dehydrogenase A	63
+gcdB	Glutaconyl-CoA decarboxylase subunit beta	56	Glutaconyl-CoA decarboxylase subunit beta	63
+rpsK	30S ribosomal protein S11	56	30S ribosomal protein S11	63
+fklB	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase	56	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase	63
+lpoB	Penicillin-binding protein activator LpoB	56	Penicillin-binding protein activator LpoB	63
+znuB_1	High-affinity zinc uptake system membrane protein ZnuB	56	High-affinity zinc uptake system membrane protein ZnuB	63
+ribB	3,4-dihydroxy-2-butanone 4-phosphate synthase	56	3,4-dihydroxy-2-butanone 4-phosphate synthase	63
+xanP	Xanthine permease XanP	56	Xanthine permease XanP	63
+metF	5,10-methylenetetrahydrofolate reductase	56	5,10-methylenetetrahydrofolate reductase	63
+tsaE	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	56	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	63
+hflK	Modulator of FtsH protease HflK	56	Modulator of FtsH protease HflK	63
+lpxC	UDP-3-O-acyl-N-acetylglucosamine deacetylase	56	UDP-3-O-acyl-N-acetylglucosamine deacetylase	63
+ccmE	Cytochrome c-type biogenesis protein CcmE	56	Cytochrome c-type biogenesis protein CcmE	63
+frwD	PTS system fructose-like EIIB component 3	56	PTS system fructose-like EIIB component 3	63
+srlR	Glucitol operon repressor	56	Glucitol operon repressor	63
+trmB	tRNA (guanine-N(7)-)-methyltransferase	56	tRNA (guanine-N(7)-)-methyltransferase	63
+rnpA	Ribonuclease P protein component	56	Ribonuclease P protein component	63
+oppD_4	Oligopeptide transport ATP-binding protein OppD	56	Oligopeptide transport ATP-binding protein OppD	63
+ridA_2	2-iminobutanoate/2-iminopropanoate deaminase	56	2-iminobutanoate/2-iminopropanoate deaminase	63
+ibaG	Acid stress protein IbaG	56	Acid stress protein IbaG	63
+atpI	hypothetical protein	56	hypothetical protein	63
+atpB	ATP synthase subunit a	56	ATP synthase subunit a	63
+atpH	ATP synthase subunit delta	56	ATP synthase subunit delta	63
+frdA	Fumarate reductase flavoprotein subunit	56	Fumarate reductase flavoprotein subunit	63
+group_5949	hypothetical protein	56	Leucine-responsive regulatory protein	63
+gcvH	Glycine cleavage system H protein	56	Glycine cleavage system H protein	63
+apaG	Protein ApaG	56	Protein ApaG	63
+ybeY	Endoribonuclease YbeY	56	Endoribonuclease YbeY	63
+moaA	GTP 3',8-cyclase	56	GTP 3',8-cyclase	63
+slyD	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	56	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	63
+moeA_2	hypothetical protein	56	hypothetical protein	63
+fabG_2	3-oxoacyl-[acyl-carrier-protein] reductase FabG	56	3-oxoacyl-[acyl-carrier-protein] reductase FabG	63

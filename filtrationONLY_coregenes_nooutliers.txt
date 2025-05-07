@@ -1,0 +1,217 @@
+Gene	Annotation_F	Isolates_F
+group_1021	hypothetical protein	56
+group_1256	putative protein	56
+accC	Biotin carboxylase	56
+yscN	putative ATP synthase YscN	56
+murR	HTH-type transcriptional regulator MurR	56
+sdhA	Succinate dehydrogenase flavoprotein subunit	56
+glnG	DNA-binding transcriptional regulator NtrC	56
+lly	4-hydroxyphenylpyruvate dioxygenase	56
+aroH	Phospho-2-dehydro-3-deoxyheptonate aldolase, Trp-sensitive	56
+group_1751	putative RNA pseudouridine synthase	56
+galK	Galactokinase	56
+thrS	Threonine--tRNA ligase	56
+secF_2	Protein translocase subunit SecF	56
+nirD_2	Nitrite reductase (NADH) small subunit	56
+metH	Methionine synthase	56
+group_1865	hypothetical protein	56
+rpoC	DNA-directed RNA polymerase subunit beta'	56
+rpoZ	DNA-directed RNA polymerase subunit omega	56
+rpsR	30S ribosomal protein S18	56
+rplT	50S ribosomal protein L20	56
+hupA	DNA-binding protein HU-alpha	56
+group_19894	hypothetical protein	56
+rplP	50S ribosomal protein L16	56
+group_19946	hypothetical protein	56
+group_20147	hypothetical protein	56
+rlmN	Dual-specificity RNA methyltransferase RlmN	56
+infA	Translation initiation factor IF-1	56
+ahpC_1	Alkyl hydroperoxide reductase C	56
+group_20164	hypothetical protein	56
+atpF	ATP synthase subunit b	56
+group_20172	hypothetical protein	56
+group_20174	hypothetical protein	56
+secE	Protein translocase subunit SecE	56
+gshB	Glutathione synthetase	56
+nasD_1	Nitrite reductase [NAD(P)H]	56
+cfxP	Phosphoribulokinase, plasmid	56
+malG	Maltose/maltodextrin transport system permease protein MalG	56
+group_2424	Putative multidrug export ATP-binding/permease protein	56
+mcpQ_4	hypothetical protein	56
+group_2440	hypothetical protein	56
+group_2444	hypothetical protein	56
+cvpA	Colicin V production protein	56
+group_2475	hypothetical protein	56
+rapA	RNA polymerase-associated protein RapA	56
+group_2483	hypothetical protein	56
+metG	Methionine--tRNA ligase	56
+tyrA	T-protein	56
+group_2505	hypothetical protein	56
+dtpT	Di-/tripeptide transporter	56
+fabF_2	3-oxoacyl-[acyl-carrier-protein] synthase 2	56
+leuS	Leucine--tRNA ligase	56
+hcp	Hydroxylamine reductase	56
+ynjC	Inner membrane ABC transporter permease protein YnjC	56
+dppB	Dipeptide transport system permease protein DppB	56
+fabZ	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ	56
+group_2653	hypothetical protein	56
+dnaG	DNA primase	56
+gspA	hypothetical protein	56
+flgE_2	Flagellar hook protein FlgE	56
+group_2692	hypothetical protein	56
+ndh	NADH dehydrogenase	56
+purH	Bifunctional purine biosynthesis protein PurH	56
+malP	Maltodextrin phosphorylase	56
+group_2747	hypothetical protein	56
+ffh	Signal recognition particle protein	56
+gor	Glutathione reductase	56
+group_2776	Putative thiamine biosynthesis protein	56
+relA	GTP pyrophosphokinase	56
+gyrB	DNA gyrase subunit B	56
+ppaC	hypothetical protein	56
+group_2852	hypothetical protein	56
+yeeN	putative transcriptional regulatory protein YeeN	56
+group_2878	hypothetical protein	56
+alsT_1	Amino-acid carrier protein AlsT	56
+cysB	HTH-type transcriptional regulator CysB	56
+ald	Alanine dehydrogenase	56
+frmA	S-(hydroxymethyl)glutathione dehydrogenase	56
+fusA_3	Elongation factor G	56
+nimR_2	HTH-type transcriptional regulator NimR	56
+ygjP	UTP pyrophosphatase	56
+maeA	NAD-dependent malic enzyme	56
+gnd	6-phosphogluconate dehydrogenase, decarboxylating	56
+zwf	Glucose-6-phosphate 1-dehydrogenase	56
+iclR	Transcriptional repressor IclR	56
+ftsY_1	Signal recognition particle receptor FtsY	56
+fliF_2	hypothetical protein	56
+yebS	Intermembrane transport protein YebS	56
+deoD	Purine nucleoside phosphorylase DeoD-type	56
+group_3713	hypothetical protein	56
+ydiK_2	Putative transport protein YdiK	56
+hemL	Glutamate-1-semialdehyde 2,1-aminomutase	56
+rlmE	Ribosomal RNA large subunit methyltransferase E	56
+copA_1	Copper-exporting P-type ATPase	56
+ccoP2	Cbb3-type cytochrome c oxidase subunit CcoP2	56
+group_3748	hypothetical protein	56
+ccoN1	Cbb3-type cytochrome c oxidase subunit CcoN1	56
+group_3753	hypothetical protein	56
+miaB	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase	56
+rluC	Ribosomal large subunit pseudouridine synthase C	56
+udk	Uridine kinase	56
+potD_2	Spermidine/putrescine-binding periplasmic protein	56
+potD_3	Spermidine/putrescine-binding periplasmic protein	56
+group_3809	hypothetical protein	56
+group_3811	hypothetical protein	56
+rplI	50S ribosomal protein L9	56
+proB	Glutamate 5-kinase	56
+nagA	N-acetylglucosamine-6-phosphate deacetylase	56
+group_3841	hypothetical protein	56
+folD	Bifunctional protein FolD protein	56
+tsf	Elongation factor Ts	56
+clpS	ATP-dependent Clp protease adapter protein ClpS	56
+sicA	Chaperone protein SicA	56
+fadF	hypothetical protein	56
+trmA	tRNA/tmRNA (uracil-C(5))-methyltransferase	56
+rpoH	RNA polymerase sigma factor RpoH	56
+hdfR_4	HTH-type transcriptional regulator HdfR	56
+group_3900	hypothetical protein	56
+group_3901	hypothetical protein	56
+group_3907	hypothetical protein	56
+ruvC	Crossover junction endodeoxyribonuclease RuvC	56
+cydA_2	Cytochrome bd-I ubiquinol oxidase subunit 1	56
+pstS	Phosphate-binding protein PstS	56
+gsiA	Glutathione import ATP-binding protein GsiA	56
+galT	Galactose-1-phosphate uridylyltransferase	56
+dnaE	DNA polymerase III subunit alpha	56
+group_3952	hypothetical protein	56
+guaB	Inosine-5'-monophosphate dehydrogenase	56
+sdaA	L-serine dehydratase 1	56
+group_3977	hypothetical protein	56
+apxIB	Toxin RTX-I translocation ATP-binding protein	56
+cysS	Cysteine--tRNA ligase	56
+hisF	Imidazole glycerol phosphate synthase subunit HisF	56
+group_4003	hypothetical protein	56
+hemE	Uroporphyrinogen decarboxylase	56
+group_4011	putative protein	56
+cysZ	Sulfate transporter CysZ	56
+malT	HTH-type transcriptional regulator MalT	56
+ubiJ_2	Ubiquinone biosynthesis accessory factor UbiJ	56
+group_4033	hypothetical protein	56
+yhbU	putative protease YhbU	56
+group_4039	hypothetical protein	56
+group_4047	hypothetical protein	56
+asd1	Aspartate-semialdehyde dehydrogenase 1	56
+rlmJ	Ribosomal RNA large subunit methyltransferase J	56
+tenA	Aminopyrimidine aminohydrolase	56
+rsd	Regulator of sigma D	56
+group_4078	NAD 5'-nucleotidase	56
+ubiE	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE	56
+gsk_1	Inosine-guanosine kinase	56
+group_4101	hypothetical protein	56
+group_4105	hypothetical protein	56
+thiC	Phosphomethylpyrimidine synthase	56
+yggP	Mannitol-1-phosphate 5-dehydrogenase	56
+glmS	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	56
+group_4121	hypothetical protein	56
+group_4127	hypothetical protein	56
+xerC_4	Tyrosine recombinase XerC	56
+ydhC_2	Inner membrane transport protein YdhC	56
+group_4151	hypothetical protein	56
+mrdB_1	Peptidoglycan glycosyltransferase MrdB	56
+tesB	Acyl-CoA thioesterase 2	56
+atpG	ATP synthase gamma chain	56
+group_4176	hypothetical protein	56
+group_4183	Putative pseudouridine methyltransferase	56
+adhB	Alcohol dehydrogenase 2	56
+bioB	Biotin synthase	56
+dapB	4-hydroxy-tetrahydrodipicolinate reductase	56
+hemG	Protoporphyrinogen IX dehydrogenase [menaquinone]	56
+motB	Motility protein B	56
+group_5220	hypothetical protein	56
+group_5244	hypothetical protein	56
+group_5247	hypothetical protein	56
+group_5251	hypothetical protein	56
+group_5252	hypothetical protein	56
+proQ	RNA chaperone ProQ	56
+mutS2	Endonuclease MutS2	56
+oppD_5	Oligopeptide transport ATP-binding protein OppD	56
+yhbY	RNA-binding protein YhbY	56
+potB	Spermidine/putrescine transport system permease protein PotB	56
+fdhB1	Formate dehydrogenase iron-sulfur subunit	56
+oah1	O-acetyl-L-homoserine sulfhydrylase 1	56
+group_5425	hypothetical protein	56
+sucB	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex	56
+group_5438	hypothetical protein	56
+group_5461	3-oxoacyl-[acyl-carrier-protein] reductase FabG	56
+rpsB	30S ribosomal protein S2	56
+ispU	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)	56
+spaP	Surface presentation of antigens protein SpaP	56
+rpoE_2	ECF RNA polymerase sigma-E factor	56
+ygdG	Flap endonuclease Xni	56
+cmk	Cytidylate kinase	56
+oppD_3	Oligopeptide transport ATP-binding protein OppD	56
+group_5561	hypothetical protein	56
+group_5589	hypothetical protein	56
+infC	Translation initiation factor IF-3	56
+rpmI	50S ribosomal protein L35	56
+group_5635	hypothetical protein	56
+purD	Phosphoribosylamine--glycine ligase	56
+rplF	50S ribosomal protein L6	56
+group_5740	hypothetical protein	56
+htpX_2	Protease HtpX	56
+rplA	50S ribosomal protein L1	56
+nusG	Transcription termination/antitermination protein NusG	56
+group_5787	hypothetical protein	56
+gmhA	Phosphoheptose isomerase	56
+yhjX_1	L-lactate transporter	56
+pgk	Phosphoglycerate kinase	56
+epd	D-erythrose-4-phosphate dehydrogenase	56
+glnL	Sensory histidine kinase/phosphatase NtrB	56
+group_5952	hypothetical protein	56
+yacG	DNA gyrase inhibitor YacG	56
+ybeZ	PhoH-like protein	56
+ilvM	Acetolactate synthase isozyme 2 small subunit	56
+recO	DNA repair protein RecO	56
+ilvD	Dihydroxy-acid dehydratase	56
+hutX	Intracellular heme transport protein HutX	56

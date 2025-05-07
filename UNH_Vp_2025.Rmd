@@ -1,0 +1,149 @@
+---
+title: "UNH_Vp"
+author: "MVI"
+date: "2025-04-28"
+output: html_document
+---
+```{r}
+library("dplyr")
+library("gplots")                   
+library("tidyverse")
+library("vegan")                    
+library("ggplot2")                 
+library("ggrepel") 
+#install.packages("VennDiagram")
+library("VennDiagram")
+library("ggtext")
+library("ggpubr")
+library("reshape2")
+library("tidyselect")
+library("devtools")
+```
+
+
+unzip the roary output files onto desktop and download the gene_presence_absence files
+here I have titled the enrichment output files with the "_WATs_vib" and filtration output files with "_WAT-Fs_vib"
+```{r}
+setwd("~/Desktop/URBAN/UNH_SeaGrant/Analysis")
+pa_WATs <- read.table("gene_presence_absence_WATs_vib.Rtab", header=TRUE)
+pa_WATs_csv <- read.csv("gene_presence_absence_WATs_vib.csv", header=TRUE)
+pa_WATs_core <- pa_WATs_csv[1:2479,c(1,3,4)]
+
+pa_WATFs <- read.table("gene_presence_absence_WAT-Fs_vib.Rtab", header=TRUE)
+pa_WATFs_csv <- read.csv("gene_presence_absence_WAT-Fs_vib.csv", header=TRUE)
+pa_WATFs_core <- pa_WATFs_csv[1:620,c(1,3,4)]
+
+```
+
+```{r}
+#then do some venns
+#enrichment is green, filtration is blue
+
+candidates_anno=list("Filtration"=pa_WATFs_core$Annotation, "Enrichment"=pa_WATs_core$Annotation)
+head(candidates_anno)
+venn_anno=venn.diagram(
+  x = candidates_anno,
+  category.names=c("Filtration", "Enrichment"),
+  col=c("#00CC00","#3399FF"),
+  lwd=c(3,3),
+  filename=NULL,
+  main.cex = 2,
+  main.fontface = "bold",
+  main.fontfamily = "sans",
+  #col = "transparent",
+  fill = c("#00CC00","#3399FF"),
+  alpha = 0.3,
+  cex = 2,
+  fontfamily = "sans",
+  fontface = "bold",
+  cat.default.pos = "text",
+  cat.col = c("black", "black"),
+  cat.cex = 1.5,
+  cat.fontfamily = "sans",
+  cat.dist = c(0.14, 0.2),
+  cat.pos = c(-3, -15)
+)
+
+grid.draw(venn_anno)
+#saved as venn_anno as 5x5
+
+candidates_gene=list("Filtration"=pa_WATFs_core$Gene, "Enrichment"=pa_WATs_core$Gene)
+head(candidates_gene)
+venn_gene=venn.diagram(
+  x = candidates_gene,
+  category.names=c("Filtration", "Enrichment"),
+  col=c("#00CC00","#3399FF"),
+  lwd=c(3,3),
+  filename=NULL,
+  main.cex = 2,
+  main.fontface = "bold",
+  main.fontfamily = "sans",
+  #col = "transparent",
+  fill = c("#00CC00","#3399FF"),
+  alpha = 0.3,
+  cex = 2,
+  fontfamily = "sans",
+  fontface = "bold",
+  cat.default.pos = "text",
+  cat.col = c("black", "black"),
+  cat.cex = 1.5,
+  cat.fontfamily = "sans",
+  cat.dist = c(0.12, 0.21),
+  cat.pos = c(-3, -24)
+)
+
+grid.draw(venn_gene)
+#saved as venn_gene as 5x5
+```
+
+identifying the shared and unique genes
+```{r}
+#shared genes
+
+intersect_gene <- intersect(pa_WATFs_core$Gene, pa_WATs_core$Gene)
+intersect_gene_df <- as.data.frame(intersect_gene)
+colnames(pa_WATFs_core) <- paste(c("Gene", "Annotation_F", "Isolates_F"))
+colnames(pa_WATs_core) <- paste(c("Gene", "Annotation_En", "Isolates_En"))
+shared_genes <- pa_WATFs_core %>%
+  inner_join(pa_WATs_core)
+write.table(shared_genes, "shared_coregenes_nooutliers.txt", quote=F, sep="\t", row.names=FALSE)
+
+#unique genes
+head(pa_WATFs_core)
+WATFs_core_genes <- pa_WATFs_core[,c(1,3)]
+head(pa_WATs_core)
+WATs_core_genes <- pa_WATs_core[,c(1,3)]
+
+fj <- full_join(pa_WATFs_core, pa_WATs_core)
+head(fj)
+tail(fj)
+
+#unique to filtration
+fj_filt <- fj %>%
+  drop_na(Isolates_F)
+fj_filt_only <- subset(fj_filt, !(Gene %in% intersect_gene_df$intersect_gene)) %>%
+  select(-Annotation_En, -Isolates_En)
+head(fj_filt_only)
+write.table(fj_filt_only, "filtrationONLY_coregenes_nooutliers.txt", quote=F, sep="\t", row.names=FALSE)
+
+#unique to enrichment
+fj_enr <- fj %>%
+  drop_na(Isolates_En)
+fj_enr_only <- subset(fj_enr, !(Gene %in% intersect_gene_df$intersect_gene)) %>%
+  select(-Annotation_F, -Isolates_F)
+head(fj_enr_only)
+write.table(fj_enr_only, "enrichmentONLY_coregenes_nooutliers.txt", quote=F, sep="\t", row.names=FALSE)
+```
+
+Looking at the core genes from both together
+```{r}
+pa_all <- read.table("gene_presence_absence_ALL_vib.Rtab", header=TRUE)
+pa_all_csv <- read.csv("gene_presence_absence_ALL_vib.csv", header=TRUE)
+pa_all_core <- pa_all_csv[1:1684,c(1,3,4)]
+```
+
+
+
+
+
+

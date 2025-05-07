@@ -1,0 +1,2076 @@
+Gene	Annotation_En	Isolates_En
+group_1002	hypothetical protein	63
+thiF	Sulfur carrier protein ThiS adenylyltransferase	63
+csgA_2	hypothetical protein	63
+group_1008	hypothetical protein	63
+yecM	Protein YecM	63
+group_1018	hypothetical protein	63
+flaD_1	Flagellin D	63
+group_1024	hypothetical protein	63
+group_107	hypothetical protein	63
+fecB	Fe(3 ) dicitrate-binding periplasmic protein	63
+sbnH	2-[(L-alanin-3-ylcarbamoyl)methyl]-2-hydroxybutanedioate decarboxylase	63
+dmsD	Tat proofreading chaperone DmsD	63
+group_1097	hypothetical protein	63
+group_1110	hypothetical protein	63
+yhjX	putative MFS-type transporter YhjX	63
+occR	Octopine catabolism/uptake operon regulatory protein OccR	63
+trpI	HTH-type transcriptional regulator TrpI	63
+group_1139	hypothetical protein	63
+group_1140	hypothetical protein	63
+panE	2-dehydropantoate 2-reductase	63
+group_1163	hypothetical protein	63
+bepE_3	Efflux pump membrane transporter BepE	63
+group_1172	hypothetical protein	63
+sph	hypothetical protein	63
+group_1199	HTH-type transcriptional regulator CueR	63
+lsrG	(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase	63
+group_1212	hypothetical protein	63
+kdpE	Transcriptional regulatory protein KdpE	63
+group_1268	hypothetical protein	63
+group_1279	hypothetical protein	63
+oxyR_2	HTH-type transcriptional regulator HdfR	63
+mtgA	Biosynthetic peptidoglycan transglycosylase	63
+sigE_1	ECF RNA polymerase sigma factor SigE	63
+pbuE	Purine efflux pump PbuE	63
+group_1299	hypothetical protein	63
+group_1307	hypothetical protein	63
+pyrE_2	hypothetical protein	63
+group_1312	hypothetical protein	63
+group_1327	hypothetical protein	63
+group_1353	hypothetical protein	63
+group_1357	hypothetical protein	63
+yfiH	Polyphenol oxidase	63
+group_1375	hypothetical protein	63
+group_1382	hypothetical protein	63
+norG_3	HTH-type transcriptional regulator NorG	63
+group_1386	hypothetical protein	63
+group_1391	hypothetical protein	63
+mpaA	Murein peptide amidase A	63
+group_1408	hypothetical protein	63
+chrR_1	hypothetical protein	63
+ppsC	hypothetical protein	63
+yjjW	Putative glycyl-radical enzyme activating enzyme YjjW	63
+lolA_2	Outer-membrane lipoprotein carrier protein	63
+group_1455	hypothetical protein	63
+napF_2	Ferredoxin-type protein NapF	63
+yfhP	hypothetical protein	63
+group_1516	Phosphorylated carbohydrates phosphatase	63
+group_1522	hypothetical protein	63
+group_1523	hypothetical protein	63
+yodB	Cytochrome b561 	63
+artQ	Arginine ABC transporter permease protein ArtQ	63
+group_1563	hypothetical protein	63
+group_1567	hypothetical protein	63
+ydcP_1	hypothetical protein	63
+group_1582	hypothetical protein	63
+group_1585	hypothetical protein	63
+group_1586	hypothetical protein	63
+group_1603	hypothetical protein	63
+yceM	Putative oxidoreductase YceM	63
+group_1621	hypothetical protein	63
+phnW	2-aminoethylphosphonate--pyruvate transaminase	63
+yjjV	putative metal-dependent hydrolase YjjV	63
+yfcA_3	putative membrane transporter protein YfcA	63
+tilS	tRNA(Ile)-lysidine synthase	63
+dsbD_1	Thiol:disulfide interchange protein DsbD	63
+ttrS_2	Tetrathionate sensor histidine kinase TtrS	63
+group_1688	hypothetical protein	63
+glxK	Glycerate 3-kinase	63
+trpS2	Tryptophan--tRNA ligase 2	63
+ccmF_2	Cytochrome c-type biogenesis protein CcmF	63
+rluA_1	hypothetical protein	63
+prtV	hypothetical protein	63
+ygfA	5-formyltetrahydrofolate cyclo-ligase	63
+group_1758	hypothetical protein	63
+group_176	hypothetical protein	63
+calB	Coniferyl aldehyde dehydrogenase	63
+topA_2	DNA topoisomerase 1	63
+group_1769	hypothetical protein	63
+group_1772	hypothetical protein	63
+group_1786	hypothetical protein	63
+group_1787	Spermidine/putrescine import ATP-binding protein PotA	63
+group_1793	hypothetical protein	63
+group_1794	hypothetical protein	63
+group_18020	hypothetical protein	63
+rpsQ	30S ribosomal protein S17	63
+fliE_2	Flagellar hook-basal body complex protein FliE	63
+rplN	50S ribosomal protein L14	63
+fliQ_2	Flagellar biosynthetic protein FliQ	63
+cheX	hypothetical protein	63
+group_18027	hypothetical protein	63
+rpmE	50S ribosomal protein L31	63
+cspG_1	Cold shock-like protein CspG	63
+rplE	50S ribosomal protein L5	63
+group_18044	tRNA-Leu(taa)	63
+group_18045	hypothetical protein	63
+rpsI	30S ribosomal protein S9	63
+rpsM	30S ribosomal protein S13	63
+zapB	Cell division protein ZapB	63
+csrA	Carbon storage regulator	63
+group_18056	hypothetical protein	63
+argR	Arginine repressor	63
+group_18059	hypothetical protein	63
+ccmD	hypothetical protein	63
+atpE	ATP synthase subunit c	63
+lrp_1	Leucine-responsive regulatory protein	63
+ribH	6,7-dimethyl-8-ribityllumazine synthase	63
+rplR	50S ribosomal protein L18	63
+group_18067	hypothetical protein	63
+group_18068	hypothetical protein	63
+ptsO	Phosphocarrier protein NPr	63
+rpsT	30S ribosomal protein S20	63
+group_18075	hypothetical protein	63
+efp	Elongation factor P	63
+rpmG	50S ribosomal protein L33	63
+glnB_2	Nitrogen regulatory protein P-II	63
+group_18081	hypothetical protein	63
+group_18084	hypothetical protein	63
+IMPDH_1	Inosine-5'-monophosphate dehydrogenase	63
+fis	DNA-binding protein Fis	63
+group_18088	hypothetical protein	63
+group_18089	hypothetical protein	63
+group_18092	hypothetical protein	63
+rnk	Regulator of nucleoside diphosphate kinase	63
+yclO	Petrobactin import system permease protein YclO	63
+ftsL	Cell division protein FtsL	63
+bcr_2	Bicyclomycin resistance protein	63
+rep	ATP-dependent DNA helicase Rep	63
+gpmI	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	63
+hutH_2	Histidine ammonia-lyase	63
+group_18108	hypothetical protein	63
+bamA	Outer membrane protein assembly factor BamA	63
+gyrA	DNA gyrase subunit A	63
+fieF	Ferrous-iron efflux pump FieF	63
+group_18115	hypothetical protein	63
+group_18118	hypothetical protein	63
+slmA	Nucleoid occlusion factor SlmA	63
+panP	Aspartate 1-decarboxylase	63
+yfcA_1	putative membrane transporter protein YfcA	63
+gsk_2	Inosine-guanosine kinase	63
+nqrC	Na( )-translocating NADH-quinone reductase subunit C	63
+ribBA	Riboflavin biosynthesis protein RibBA	63
+ychF	Ribosome-binding ATPase YchF	63
+group_18130	hypothetical protein	63
+plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase	63
+flgD_1	hypothetical protein	63
+lptC	Lipopolysaccharide export system protein LptC	63
+rimM	Ribosome maturation factor RimM	63
+yflS	Putative malate transporter YflS	63
+group_18136	hypothetical protein	63
+mlaE	Intermembrane phospholipid transport system permease protein MlaE	63
+rnfG	Ion-translocating oxidoreductase complex subunit G	63
+group_18139	hypothetical protein	63
+group_18143	hypothetical protein	63
+group_18145	hypothetical protein	63
+group_18146	hypothetical protein	63
+group_18147	putative acyl-CoA thioester hydrolase	63
+miaA	tRNA dimethylallyltransferase	63
+mscS	Small-conductance mechanosensitive channel	63
+yadG	putative ABC transporter ATP-binding protein YadG	63
+group_18155	hypothetical protein	63
+aspA_2	Aspartate ammonia-lyase	63
+dapE	Succinyl-diaminopimelate desuccinylase	63
+rseB	Sigma-E factor regulatory protein RseB	63
+group_18163	tRNA-Trp(cca)	63
+podJ	hypothetical protein	63
+group_18172	Purine nucleoside phosphoramidase	63
+secF_1	Protein translocase subunit SecF	63
+yidZ_6	HTH-type transcriptional regulator YidZ	63
+group_18176	hypothetical protein	63
+group_18178	hypothetical protein	63
+atpD	ATP synthase subunit beta	63
+mrcA	Penicillin-binding protein 1A	63
+ctaB	Protoheme IX farnesyltransferase	63
+fliN	Flagellar motor switch protein FliN	63
+group_18184	hypothetical protein	63
+ppaC_1	putative manganese-dependent inorganic pyrophosphatase	63
+pitA	hypothetical protein	63
+lpdA	Dihydrolipoyl dehydrogenase	63
+bepA_3	Beta-barrel assembly-enhancing protease	63
+bepA_1	Beta-barrel assembly-enhancing protease	63
+group_1819	hypothetical protein	63
+yhaJ_2	HTH-type transcriptional regulator YhaJ	63
+glaR	HTH-type transcriptional repressor GlaR	63
+dmlR_9	HTH-type transcriptional regulator DmlR	63
+group_18210	putative ABC transporter ATP-binding protein	63
+gmk	Guanylate kinase	63
+uspF	Universal stress protein F	63
+aceA	Isocitrate lyase	63
+cpxA	Sensor histidine kinase CpxA	63
+group_18224	hypothetical protein	63
+group_18225	hypothetical protein	63
+cyaA	Adenylate cyclase	63
+group_18227	hypothetical protein	63
+rplO	50S ribosomal protein L15	63
+yejE	Inner membrane ABC transporter permease protein YejE	63
+group_18232	hypothetical protein	63
+fliE_1	Flagellar hook-basal body complex protein FliE	63
+group_18234	hypothetical protein	63
+lpoA	Penicillin-binding protein activator LpoA	63
+dctP	C4-dicarboxylate-binding periplasmic protein DctP	63
+mgtC	hypothetical protein	63
+group_18238	hypothetical protein	63
+rpiA	Ribose-5-phosphate isomerase A	63
+rseP	Regulator of sigma-E protease RseP	63
+plsY	putative glycerol-3-phosphate acyltransferase	63
+group_18246	hypothetical protein	63
+yggS	Pyridoxal phosphate homeostasis protein	63
+group_18249	Outer membrane protein A	63
+rarD_2	Protein RarD	63
+metI	D-methionine transport system permease protein MetI	63
+group_18254	hypothetical protein	63
+ycfS	putative L,D-transpeptidase YcfS	63
+group_18258	hypothetical protein	63
+pflB	Formate acetyltransferase 1	63
+group_18262	hypothetical protein	63
+corC	Magnesium and cobalt efflux protein CorC	63
+group_18264	putative signaling protein	63
+sixA	Phosphohistidine phosphatase SixA	63
+purK	N5-carboxyaminoimidazole ribonucleotide synthase	63
+trxB	Thioredoxin reductase	63
+gntR_2	HTH-type transcriptional regulator GntR	63
+serS	Serine--tRNA ligase	63
+pncB	Nicotinate phosphoribosyltransferase	63
+sspA_2	Stringent starvation protein A	63
+rarA	Replication-associated recombination protein A	63
+ycaD	putative MFS-type transporter YcaD	63
+trmH	tRNA (guanosine(18)-2'-O)-methyltransferase	63
+group_18295	hypothetical protein	63
+tig	Trigger factor	63
+soj_1	Sporulation initiation inhibitor protein Soj	63
+yeiP	Elongation factor P-like protein	63
+group_18299	tRNA-Cys(gca)	63
+mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase	63
+can	Carbonic anhydrase 2	63
+flgF_1	Flagellar basal-body rod protein FlgF	63
+dld	Quinone-dependent D-lactate dehydrogenase	63
+rnhA	Ribonuclease HI	63
+petC	Ammonia monooxygenase gamma subunit	63
+group_18311	hypothetical protein	63
+kbl	2-amino-3-ketobutyrate coenzyme A ligase	63
+epsF_2	Type II secretion system protein F	63
+dsbA_2	Thiol:disulfide interchange protein DsbA	63
+malF	Maltose/maltodextrin transport system permease protein MalF	63
+flhA_1	Flagellar biosynthesis protein FlhA	63
+napB	hypothetical protein	63
+rimK_1	hypothetical protein	63
+zntB	Zinc transport protein ZntB	63
+czcA_3	Cobalt-zinc-cadmium resistance protein CzcA	63
+zapA	Cell division protein ZapA	63
+sthA	Soluble pyridine nucleotide transhydrogenase	63
+barA	Signal transduction histidine-protein kinase BarA	63
+lolB	Outer-membrane lipoprotein LolB	63
+group_18357	hypothetical protein	63
+group_18358	hypothetical protein	63
+group_18359	hypothetical protein	63
+dadA	hypothetical protein	63
+yciO	putative protein YciO	63
+gloB	Hydroxyacylglutathione hydrolase GloB	63
+ktrA_1	Ktr system potassium uptake protein A	63
+modB	Molybdenum transport system permease protein ModB	63
+lolD_2	Lipoprotein-releasing system ATP-binding protein LolD	63
+yajC	Sec translocon accessory complex subunit YajC	63
+yadH	Inner membrane transport permease YadH	63
+group_18372	hypothetical protein	63
+petA	Ubiquinol-cytochrome c reductase iron-sulfur subunit	63
+hslV	ATP-dependent protease subunit HslV	63
+yttP	hypothetical protein	63
+bigR	Biofilm growth-associated repressor	63
+pyrB	Aspartate carbamoyltransferase	63
+tupB	Tungstate uptake system permease protein TupB	63
+cc4	Cytochrome c4	63
+yibN	putative protein YibN	63
+tadA_1	hypothetical protein	63
+nfuA	Fe/S biogenesis protein NfuA	63
+atpC	ATP synthase epsilon chain	63
+rpe	Ribulose-phosphate 3-epimerase	63
+ycf3	Photosystem I assembly protein Ycf3	63
+cdpA	Cyclic di-GMP phosphodiesterase CdpA	63
+fabD	Malonyl CoA-acyl carrier protein transacylase	63
+group_18395	hypothetical protein	63
+sdcS_1	Sodium-dependent dicarboxylate transporter SdcS	63
+cpxR_2	Transcriptional regulatory protein CpxR	63
+zur	Zinc uptake regulation protein	63
+argA	Amino-acid acetyltransferase	63
+fliG_1	Flagellar motor switch protein FliG	63
+mcpQ_6	hypothetical protein	63
+group_18408	C4-dicarboxylate TRAP transporter large permease protein DctM	63
+envZ	Osmolarity sensor protein EnvZ	63
+metK	S-adenosylmethionine synthase	63
+group_18413	hypothetical protein	63
+ompL	Porin-like protein L	63
+IMPDH_2	Inosine-5'-monophosphate dehydrogenase	63
+speB	Agmatinase	63
+oppF_4	Oligopeptide transport ATP-binding protein OppF	63
+prfA	Peptide chain release factor RF1	63
+vdcA_5	hypothetical protein	63
+rho	Transcription termination factor Rho	63
+epsG	Type II secretion system protein G	63
+dsbL	hypothetical protein	63
+putP	High-affinity proline transporter PutP	63
+group_18462	hypothetical protein	63
+metC	Cystathionine beta-lyase MetC	63
+phnR_2	Putative transcriptional regulator of 2-aminoethylphosphonate degradation operons	63
+hslJ	Heat shock protein HslJ	63
+sodB	Superoxide dismutase [Fe]	63
+phaA	Acetyl-CoA acetyltransferase	63
+group_18473	hypothetical protein	63
+ygiF	Inorganic triphosphatase	63
+recQ	ATP-dependent DNA helicase RecQ	63
+asnC	Regulatory protein AsnC	63
+cstA	Peptide transporter CstA	63
+bamB	Outer membrane protein assembly factor BamB	63
+lldD	L-lactate dehydrogenase	63
+group_18485	Glycine betaine transporter 2	63
+clcA	H( )/Cl(-) exchange transporter ClcA	63
+group_1851	hypothetical protein	63
+aroK	Shikimate kinase 1	63
+gcvR	Glycine cleavage system transcriptional repressor	63
+group_18541	hypothetical protein	63
+appA	hypothetical protein	63
+epsC	Type II secretion system protein C	63
+puuR_1	hypothetical protein	63
+group_18546	hypothetical protein	63
+group_18547	hypothetical protein	63
+fecC	Fe(3 ) dicitrate transport system permease protein FecC	63
+apbE	FAD:protein FMN transferase	63
+moaB	Molybdenum cofactor biosynthesis protein B	63
+group_18552	hypothetical protein	63
+pdeB	hypothetical protein	63
+malK	Maltose/maltodextrin import ATP-binding protein MalK	63
+acrB	Multidrug efflux pump subunit AcrB	63
+rlhA	23S rRNA 5-hydroxycytidine synthase	63
+ppk	Polyphosphate kinase	63
+rlmB_2	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB	63
+ftsZ	Cell division protein FtsZ	63
+yffB	Protein YffB	63
+fabF_3	3-oxoacyl-[acyl-carrier-protein] synthase 2	63
+hflX	GTPase HflX	63
+rplD	50S ribosomal protein L4	63
+fbaA	Fructose-bisphosphate aldolase class 2	63
+group_18575	hypothetical protein	63
+gspK_1	Putative type II secretion system protein K	63
+group_18580	hypothetical protein	63
+ktrA_2	Ktr system potassium uptake protein A	63
+atoC_3	Regulatory protein AtoC	63
+group_18586	hypothetical protein	63
+group_18589	hypothetical protein	63
+group_1859	putative sugar-binding periplasmic protein	63
+rhtB_5	Homoserine/homoserine lactone efflux protein	63
+nsrR	HTH-type transcriptional repressor NsrR	63
+glnA	Glutamine synthetase	63
+yibL	putative protein YibL	63
+gph_2	Phosphoglycolate phosphatase	63
+eptA	Phosphoethanolamine transferase EptA	63
+nreC	Oxygen regulatory protein NreC	63
+gtaB_2	UTP--glucose-1-phosphate uridylyltransferase	63
+hslR	Heat shock protein 15	63
+trmJ	tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ	63
+seqA	Negative modulator of initiation of replication	63
+metQ_2	D-methionine-binding lipoprotein MetQ	63
+bepG	Efflux pump membrane transporter BepG	63
+group_18607	hypothetical protein	63
+degP	Periplasmic serine endoprotease DegP	63
+pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	63
+groL_1	60 kDa chaperonin	63
+ttgW	hypothetical protein	63
+glgC_1	Glucose-1-phosphate adenylyltransferase	63
+group_18618	Thermolabile hemolysin	63
+vdcA_3	hypothetical protein	63
+trkA	Trk system potassium uptake protein TrkA	63
+ypjD	Inner membrane protein YpjD	63
+rpsD	30S ribosomal protein S4	63
+walR	Transcriptional regulatory protein WalR	63
+pcm	Protein-L-isoaspartate O-methyltransferase	63
+folK_2	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	63
+pdeK	hypothetical protein	63
+nemR	HTH-type transcriptional repressor NemR	63
+yhjX_2	L-lactate transporter	63
+hexR	HTH-type transcriptional regulator HexR	63
+group_18638	tRNA-Gly(gcc)	63
+norG_1	HTH-type transcriptional regulator NorG	63
+bamC	Outer membrane protein assembly factor BamC	63
+group_18654	hypothetical protein	63
+group_18655	hypothetical protein	63
+group_18656	hypothetical protein	63
+adk	Adenylate kinase	63
+group_18661	tRNA-Asp(gtc)	63
+cyaY	Iron-sulfur cluster assembly protein CyaY	63
+group_18685	hypothetical protein	63
+mcpQ_5	hypothetical protein	63
+mexA	Multidrug resistance protein MexA	63
+zraR_2	Anaerobic nitric oxide reductase transcription regulator NorR	63
+pntA	NAD(P) transhydrogenase subunit alpha	63
+fan1	Fanconi-associated nuclease 1 	63
+group_18703	hypothetical protein	63
+flgB_2	Flagellar basal body rod protein FlgB	63
+group_18705	hypothetical protein	63
+argO	Arginine exporter protein ArgO	63
+yhcB	Inner membrane protein YhcB	63
+group_18709	hypothetical protein	63
+group_18713	hypothetical protein	63
+bvgA	Virulence factors putative positive transcription regulator BvgA	63
+pctB_4	Methyl-accepting chemotaxis protein PctB	63
+group_18718	hypothetical protein	63
+rsmE	Ribosomal RNA small subunit methyltransferase E	63
+group_18721	hypothetical protein	63
+radA	DNA repair protein RadA	63
+group_18725	hypothetical protein	63
+group_18727	hypothetical protein	63
+cheZ	Protein phosphatase CheZ	63
+ulaC_1	Ascorbate-specific PTS system EIIA component	63
+gltS_1	Sodium/glutamate symporter	63
+nusB	Transcription antitermination protein NusB	63
+group_18733	hypothetical protein	63
+group_18734	tRNA-Cys(gca)	63
+rplQ	50S ribosomal protein L17	63
+groL_2	60 kDa chaperonin	63
+group_18750	hypothetical protein	63
+aqpZ	Aquaporin Z	63
+gloA_2	Lactoylglutathione lyase	63
+mepA_1	Multidrug export protein MepA	63
+petF1	Ferredoxin-1	63
+group_18757	hypothetical protein	63
+group_18759	hypothetical protein	63
+spy	hypothetical protein	63
+metN	Methionine import ATP-binding protein MetN	63
+fdhD_2	Sulfur carrier protein FdhD	63
+psd	Phosphatidylserine decarboxylase proenzyme	63
+gpt	Xanthine phosphoribosyltransferase	63
+group_18766	hypothetical protein	63
+group_18767	hypothetical protein	63
+group_18770	hypothetical protein	63
+group_18772	hypothetical protein	63
+group_18773	hypothetical protein	63
+rpfC	Adaptive-response sensory-kinase SasA	63
+dsbE_2	Thiol:disulfide interchange protein DsbE	63
+moaD	Molybdopterin synthase sulfur carrier subunit	63
+group_18779	hypothetical protein	63
+prmC	Release factor glutamine methyltransferase	63
+yqgF	Putative pre-16S rRNA nuclease	63
+ispA	Farnesyl diphosphate synthase	63
+outO	Type 4 prepilin-like proteins leader peptide-processing enzyme	63
+ascD	hypothetical protein	63
+ompA_5	Outer membrane protein A	63
+ruvB	Holliday junction ATP-dependent DNA helicase RuvB	63
+slyB_1	hypothetical protein	63
+group_18793	hypothetical protein	63
+flgK_1	hypothetical protein	63
+vdcA_2	hypothetical protein	63
+alaS	Alanine--tRNA ligase	63
+ilvI	Acetolactate synthase isozyme 3 large subunit	63
+group_18801	hypothetical protein	63
+group_18802	hypothetical protein	63
+group_18803	hypothetical protein	63
+elbB	Glyoxalase ElbB	63
+cytR_1	HTH-type transcriptional repressor CytR	63
+group_18807	hypothetical protein	63
+group_18808	hypothetical protein	63
+melR_1	Melibiose operon regulatory protein	63
+group_18810	hypothetical protein	63
+group_18812	hypothetical protein	63
+yusO	hypothetical protein	63
+group_18814	hypothetical protein	63
+group_18815	hypothetical protein	63
+yclP	Petrobactin import ATP-binding protein YclP	63
+ybiT_1	putative ABC transporter ATP-binding protein YbiT	63
+group_18819	hypothetical protein	63
+group_18821	hypothetical protein	63
+ilvH	Acetolactate synthase isozyme 3 small subunit	63
+aspA_1	Microbial serine proteinase	63
+group_18824	hypothetical protein	63
+cpdA	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA	63
+ogt	Methylated-DNA--protein-cysteine methyltransferase	63
+uhpA	Transcriptional regulatory protein UhpA	63
+rnr_2	Ribonuclease R	63
+flhB_1	Flagellar biosynthetic protein FlhB	63
+pgrR_2	HTH-type transcriptional regulator PgrR	63
+norM_2	Multidrug resistance protein NorM	63
+tusA	Sulfur carrier protein TusA	63
+group_18839	hypothetical protein	63
+group_18840	Long-chain-fatty-acid--CoA ligase FadD15	63
+yqeY	putative protein YqeY	63
+purA_1	Adenylosuccinate synthetase	63
+tcdA	tRNA threonylcarbamoyladenosine dehydratase	63
+yejM_1	Inner membrane protein YejM	63
+aas	Bifunctional protein Aas	63
+group_18847	Epimerase family protein	63
+dgcQ_1	hypothetical protein	63
+ribF	Bifunctional riboflavin kinase/FMN adenylyltransferase	63
+group_18850	Methyl-accepting chemotaxis protein PctB	63
+fadR	Fatty acid metabolism regulator protein	63
+group_18853	hypothetical protein	63
+group_18854	hypothetical protein	63
+folE	GTP cyclohydrolase 1	63
+valS	Valine--tRNA ligase	63
+group_18859	hypothetical protein	63
+ushA_2	Protein UshA	63
+group_18861	hypothetical protein	63
+mcpQ_2	hypothetical protein	63
+ydiK_1	Putative transport protein YdiK	63
+ppa	Inorganic pyrophosphatase	63
+ftsI	Peptidoglycan D,D-transpeptidase FtsI	63
+hlyC	Triacylglycerol lipase	63
+thiI	tRNA sulfurtransferase	63
+rnfD	Ion-translocating oxidoreductase complex subunit D	63
+group_18872	hypothetical protein	63
+iucA	hypothetical protein	63
+pqiA	Intermembrane transport protein PqiA	63
+group_18876	hypothetical protein	63
+group_18877	hypothetical protein	63
+group_18879	hypothetical protein	63
+lrp_4	Leucine-responsive regulatory protein	63
+group_18881	hypothetical protein	63
+group_18882	hypothetical protein	63
+brnQ_2	Branched-chain amino acid transport system 2 carrier protein	63
+trpE	Anthranilate synthase component 1	63
+group_18888	hypothetical protein	63
+fliG_2	Flagellar motor switch protein FliG	63
+group_18894	hypothetical protein	63
+group_18895	hypothetical protein	63
+aas_2	hypothetical protein	63
+flaD_3	Flagellin D	63
+fdnI	hypothetical protein	63
+group_18899	hypothetical protein	63
+group_18901	hypothetical protein	63
+group_18902	hypothetical protein	63
+gppA	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	63
+yieH	6-phosphogluconate phosphatase	63
+group_18905	hypothetical protein	63
+aroC	Chorismate synthase	63
+group_18907	hypothetical protein	63
+fpr	Flavodoxin/ferredoxin--NADP reductase	63
+group_18909	putative protein	63
+group_18914	hypothetical protein	63
+group_18916	hypothetical protein	63
+cyoA	Cytochrome bo(3) ubiquinol oxidase subunit 2	63
+group_18918	hypothetical protein	63
+group_18919	hypothetical protein	63
+group_18920	hypothetical protein	63
+group_18921	hypothetical protein	63
+group_18922	hypothetical protein	63
+group_18923	hypothetical protein	63
+group_18924	hypothetical protein	63
+group_18925	hypothetical protein	63
+lapB	Lipopolysaccharide assembly protein B	63
+group_18928	hypothetical protein	63
+group_18929	hypothetical protein	63
+aroA	3-phosphoshikimate 1-carboxyvinyltransferase	63
+sdcS_2	hypothetical protein	63
+group_18932	hypothetical protein	63
+group_18933	hypothetical protein	63
+group_18937	hypothetical protein	63
+lrp_5	Leucine-responsive regulatory protein	63
+bhuA	Heme transporter BhuA	63
+fabH2	3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 2	63
+group_18944	Carboxynorspermidine synthase	63
+gluQ	Glutamyl-Q tRNA(Asp) synthetase	63
+ilvC	Ketol-acid reductoisomerase (NADP( ))	63
+cysQ	3'(2'),5'-bisphosphate nucleotidase CysQ	63
+lapA	Lipopolysaccharide assembly protein A	63
+group_18951	hypothetical protein	63
+mdtA_2	Multidrug resistance protein MdtA	63
+ttgD	Multidrug resistance protein MdtA	63
+group_18954	putative protein	63
+hmp	Flavohemoprotein	63
+ypeA_1	hypothetical protein	63
+oxyR_1	Hydrogen peroxide-inducible genes activator	63
+group_18962	hypothetical protein	63
+yaeQ	putative protein YaeQ	63
+deaD	ATP-dependent RNA helicase DeaD	63
+lpp	Major outer membrane prolipoprotein Lpp	63
+flaD_4	Flagellin D	63
+psiE	hypothetical protein	63
+ftsQ	Cell division protein FtsQ	63
+group_18971	hypothetical protein	63
+hflC	Modulator of FtsH protease HflC	63
+ftsE	Cell division ATP-binding protein FtsE	63
+rbgA	Ribosome biogenesis GTPase A	63
+metL	Bifunctional aspartokinase/homoserine dehydrogenase 2	63
+ynjB	Protein YnjB	63
+pstA	hypothetical protein	63
+damX_1	Cell division protein DamX	63
+rfaH	Transcription antitermination protein RfaH	63
+group_18982	hypothetical protein	63
+garR	2-hydroxy-3-oxopropionate reductase	63
+group_18984	hypothetical protein	63
+leuB	3-isopropylmalate dehydrogenase	63
+gltX	Glutamate--tRNA ligase	63
+group_18989	hypothetical protein	63
+hmp_1	Flavohemoprotein	63
+speG	Spermidine N(1)-acetyltransferase	63
+group_18991	hypothetical protein	63
+group_18992	hypothetical protein	63
+recX	Regulatory protein RecX	63
+group_18994	hypothetical protein	63
+group_18996	hypothetical protein	63
+fadM	hypothetical protein	63
+tatA	Sec-independent protein translocase protein TatA	63
+group_18999	hypothetical protein	63
+yceD	Large ribosomal RNA subunit accumulation protein YceD	63
+group_19002	hypothetical protein	63
+fur	Ferric uptake regulation protein	63
+luxS	S-ribosylhomocysteine lyase	63
+group_19006	hypothetical protein	63
+group_19008	hypothetical protein	63
+group_19010	hypothetical protein	63
+group_19011	hypothetical protein	63
+dnaQ	DNA polymerase III subunit epsilon	63
+mdtA_1	Multidrug resistance protein MdtA	63
+mcpP_2	Methyl-accepting chemotaxis protein McpP	63
+group_19015	hypothetical protein	63
+galE_1	UDP-glucose 4-epimerase	63
+ynaI	Low conductance mechanosensitive channel YnaI	63
+rpoE_1	ECF RNA polymerase sigma factor RpoE	63
+budC	hypothetical protein	63
+nadE	NH(3)-dependent NAD( ) synthetase	63
+glpE_1	Thiosulfate sulfurtransferase GlpE	63
+group_19023	hypothetical protein	63
+apaH	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical	63
+rnb	Exoribonuclease 2	63
+tolQ_1	Tol-Pal system protein TolQ	63
+group_19027	hypothetical protein	63
+glrR	C4-dicarboxylate transport transcriptional regulatory protein DctD	63
+artM	Arginine ABC transporter permease protein ArtM	63
+acpP_2	Acyl carrier protein	63
+group_19034	hypothetical protein	63
+group_19036	Putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase	63
+pal_1	Peptidoglycan-associated lipoprotein	63
+grxA	Glutaredoxin 1	63
+cyoB	Cytochrome bo(3) ubiquinol oxidase subunit 1	63
+group_19040	hypothetical protein	63
+cpoB	Cell division coordinator CpoB	63
+pdeC	putative cyclic di-GMP phosphodiesterase PdeC	63
+group_19044	hypothetical protein	63
+group_19045	hypothetical protein	63
+hslU	ATP-dependent protease ATPase subunit HslU	63
+atoS_1	Adaptive-response sensory-kinase SasA	63
+yfgJ	hypothetical protein	63
+engB	putative GTP-binding protein EngB	63
+group_19057	hypothetical protein	63
+treR	HTH-type transcriptional regulator TreR	63
+dtd	D-aminoacyl-tRNA deacylase	63
+group_19060	hypothetical protein	63
+tyrP_2	Tyrosine-specific transport protein	63
+eda_1	Putative KHG/KDPG aldolase	63
+smrA	putative DNA endonuclease SmrA	63
+ptsG_1	PTS system glucose-specific EIICB component	63
+group_19067	putative protein	63
+zntA	Zinc/cadmium/lead-transporting P-type ATPase	63
+group_19069	hypothetical protein	63
+group_19072	hypothetical protein	63
+uppP	Undecaprenyl-diphosphatase	63
+group_19074	hypothetical protein	63
+fruA_2	PTS system fructose-specific EIIB'BC component	63
+trxC	Thioredoxin 2	63
+pdxH	Pyridoxine/pyridoxamine 5'-phosphate oxidase	63
+group_19079	hypothetical protein	63
+group_19080	hypothetical protein	63
+mnmC_1	hypothetical protein	63
+group_19082	hypothetical protein	63
+group_19083	hypothetical protein	63
+group_19084	26 kDa periplasmic immunogenic protein	63
+group_19086	hypothetical protein	63
+cnoX	Chaperedoxin	63
+sopB	hypothetical protein	63
+ybhK	Putative gluconeogenesis factor	63
+ilvA	L-threonine dehydratase biosynthetic IlvA	63
+fldA	Flavodoxin	63
+cntO_1	Metal-pseudopaline receptor CntO	63
+group_19094	hypothetical protein	63
+ycbB	putative L,D-transpeptidase YcbB	63
+yhdE	dTTP/UTP pyrophosphatase	63
+yigL	Pyridoxal phosphate phosphatase YigL	63
+evgA	DNA-binding transcriptional activator EvgA	63
+hlyU	Transcriptional activator HlyU	63
+acpP_1	Acyl carrier protein	63
+oxyR_3	Hydrogen peroxide-inducible genes activator	63
+apbC	Iron-sulfur cluster carrier protein	63
+ybaK_1	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK	63
+group_19109	hypothetical protein	63
+group_19112	hypothetical protein	63
+hcaT	putative 3-phenylpropionic acid transporter	63
+macB_3	Macrolide export ATP-binding/permease protein MacB	63
+envZ_1	Adaptive-response sensory-kinase SasA	63
+hemH	Ferrochelatase	63
+nhaP2_2	K( )/H( ) antiporter NhaP2	63
+ytfJ_2	putative protein YtfJ	63
+group_19121	hypothetical protein	63
+group_19122	hypothetical protein	63
+group_19123	hypothetical protein	63
+group_19124	hypothetical protein	63
+fruB	Multiphosphoryl transfer protein	63
+tehA	hypothetical protein	63
+group_1913	NADH oxidase	63
+cueR_2	HTH-type transcriptional regulator CueR	63
+fryA	hypothetical protein	63
+ygaV	putative HTH-type transcriptional regulator YgaV	63
+btsR_2	Transcriptional regulatory protein BtsR	63
+nadD	nicotinate-nucleotide adenylyltransferase	63
+nudF_2	ADP-ribose pyrophosphatase	63
+dctD_2	C4-dicarboxylate transport transcriptional regulatory protein DctD	63
+hscB	Co-chaperone protein HscB 	63
+cgtA	GTPase Obg/CgtA	63
+group_19146	hypothetical protein	63
+dctQ	C4-dicarboxylate TRAP transporter small permease protein DctQ	63
+norG_2	HTH-type transcriptional regulator NorG	63
+pxpC	5-oxoprolinase subunit C	63
+group_19151	hypothetical protein	63
+dctB_4	Adaptive-response sensory-kinase SasA	63
+group_19153	hypothetical protein	63
+group_19154	hypothetical protein	63
+queA	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	63
+yiaW	Inner membrane protein YiaW	63
+fliR_1	Flagellar biosynthetic protein FliR	63
+cysG_1	Siroheme synthase	63
+group_19160	hypothetical protein	63
+pdhA	Pyruvate dehydrogenase E1 component subunit alpha	63
+group_19162	hypothetical protein	63
+bfr	Bacterioferritin	63
+luxP	Autoinducer 2-binding periplasmic protein LuxP	63
+ppsR	Phosphoenolpyruvate synthase regulatory protein	63
+manP_2	hypothetical protein	63
+group_19167	hypothetical protein	63
+group_19168	hypothetical protein	63
+group_19169	hypothetical protein	63
+group_19171	Phosphoserine phosphatase	63
+bsrV_1	Broad specificity amino-acid racemase	63
+group_19173	hypothetical protein	63
+group_19174	hypothetical protein	63
+group_19175	hypothetical protein	63
+lpxB	Lipid-A-disaccharide synthase	63
+rppH_2	hypothetical protein	63
+osmY	hypothetical protein	63
+moaC	Cyclic pyranopterin monophosphate synthase	63
+group_19181	hypothetical protein	63
+group_19182	hypothetical protein	63
+napG	Ferredoxin-type protein NapG	63
+ychQ	Protein YchQ	63
+rhlE_6	ATP-dependent RNA helicase RhlE	63
+group_19187	hypothetical protein	63
+sapB	Putrescine export system permease protein SapB	63
+yohD	Inner membrane protein YohD	63
+arpC	Antibiotic efflux pump outer membrane protein ArpC	63
+kefG	Glutathione-regulated potassium-efflux system ancillary protein KefG	63
+lpxL_1	Lipid A biosynthesis lauroyltransferase	63
+tolC_2	Outer membrane protein TolC	63
+group_19195	hypothetical protein	63
+group_19196	hypothetical protein	63
+group_19199	hypothetical protein	63
+cysG_3	Siroheme synthase	63
+group_19201	hypothetical protein	63
+envC	Murein hydrolase activator EnvC	63
+group_19203	Putative pterin-4-alpha-carbinolamine dehydratase	63
+group_19207	hypothetical protein	63
+group_19208	hypothetical protein	63
+slyA_2	Transcriptional regulator SlyA	63
+pyrF	Orotidine 5'-phosphate decarboxylase	63
+phnR_1	Putative transcriptional regulator of 2-aminoethylphosphonate degradation operons	63
+group_19218	hypothetical protein	63
+sdaB	L-serine dehydratase 2	63
+lolA_1	Outer-membrane lipoprotein carrier protein	63
+glpR	Glycerol-3-phosphate regulon repressor	63
+rapZ	RNase adapter protein RapZ	63
+bicA_2	Bicarbonate transporter BicA	63
+group_19235	hypothetical protein	63
+fpuA	Petrobactin-binding protein FpuA	63
+group_19241	HTH-type transcriptional regulator DmlR	63
+ttrR_1	Tetrathionate response regulatory protein TtrR	63
+avtA	Valine--pyruvate aminotransferase	63
+folC	Dihydrofolate synthase/folylpolyglutamate synthase	63
+hemN	Oxygen-independent coproporphyrinogen III oxidase	63
+group_19247	hypothetical protein	63
+group_19248	hypothetical protein	63
+dsbC	Thiol:disulfide interchange protein DsbC	63
+pctB_2	Methyl-accepting chemotaxis protein PctB	63
+group_19252	hypothetical protein	63
+fliO	Flagellar protein FliO	63
+acpS	Holo-[acyl-carrier-protein] synthase	63
+gdx	Guanidinium exporter	63
+pntB	NAD(P) transhydrogenase subunit beta	63
+group_19258	hypothetical protein	63
+fabG_1	3-oxoacyl-[acyl-carrier-protein] reductase FabG	63
+priB	Primosomal replication protein N	63
+dmlR_5	HTH-type transcriptional regulator DmlR	63
+group_19264	hypothetical protein	63
+yedI	Inner membrane protein YedI	63
+group_19266	Membrane sensor protein UhpC	63
+thiB	Thiamine-binding periplasmic protein	63
+group_19270	hypothetical protein	63
+group_19271	hypothetical protein	63
+rlmA	23S rRNA (guanine(745)-N(1))-methyltransferase	63
+zntR_3	HTH-type transcriptional regulator ZntR	63
+group_19274	hypothetical protein	63
+bcr_1	Bicyclomycin resistance protein	63
+cca	Multifunctional CCA protein	63
+group_19277	hypothetical protein	63
+group_19278	hypothetical protein	63
+group_19279	hypothetical protein	63
+bdcR	hypothetical protein	63
+group_19280	hypothetical protein	63
+damX_2	Cell division protein DamX	63
+dnaK_1	Chaperone protein DnaK	63
+potD_1	Spermidine/putrescine-binding periplasmic protein	63
+group_19284	hypothetical protein	63
+group_19285	hypothetical protein	63
+fre	NAD(P)H-flavin reductase	63
+kefF	Glutathione-regulated potassium-efflux system ancillary protein KefF	63
+group_19288	hypothetical protein	63
+ohrR	Organic hydroperoxide resistance transcriptional regulator	63
+tdk	Thymidine kinase	63
+group_19292	hypothetical protein	63
+ydhF	Oxidoreductase YdhF	63
+yjdF	Inner membrane protein YjdF	63
+group_19295	hypothetical protein	63
+group_19296	hypothetical protein	63
+group_19297	hypothetical protein	63
+dnaN	Beta sliding clamp	63
+group_19302	Methyl-accepting chemotaxis protein McpP	63
+group_19303	hypothetical protein	63
+pspA	Phage shock protein A	63
+syd	Protein Syd	63
+thiG	Thiazole synthase	63
+napC_1	Cytochrome c-type protein NapC	63
+frdC	Fumarate reductase subunit C	63
+group_19315	hypothetical protein	63
+ribE	Riboflavin synthase	63
+mexB	Multidrug resistance protein MexB	63
+napD	Chaperone NapD	63
+group_19322	hypothetical protein	63
+group_19323	hypothetical protein	63
+group_19324	hypothetical protein	63
+hemC	Porphobilinogen deaminase	63
+pstS1_2	Phosphate-binding protein PstS 1	63
+group_19327	hypothetical protein	63
+icaA	hypothetical protein	63
+mmsA_1	Methylmalonate-semialdehyde dehydrogenase [acylating]	63
+napH	Ferredoxin-type protein NapH	63
+ctaG	Cytochrome c oxidase assembly protein CtaG	63
+group_19334	hypothetical protein	63
+yxeM	putative amino-acid-binding protein YxeM	63
+fdhD_1	Sulfur carrier protein FdhD	63
+fusA_1	Elongation factor G	63
+group_19340	hypothetical protein	63
+atoC_2	Regulatory protein AtoC	63
+group_19345	hypothetical protein	63
+group_19346	hypothetical protein	63
+group_19349	hypothetical protein	63
+yceI	Protein YceI	63
+acdA_2	Acyl-CoA dehydrogenase	63
+cqsA	CAI-1 autoinducer synthase	63
+group_19366	hypothetical protein	63
+group_19367	hypothetical protein	63
+group_19368	hypothetical protein	63
+ppm1	hypothetical protein	63
+group_1937	hypothetical protein	63
+group_19370	hypothetical protein	63
+yebE	hypothetical protein	63
+baeS	Adaptive-response sensory-kinase SasA	63
+group_19375	hypothetical protein	63
+rsuA	Ribosomal small subunit pseudouridine synthase A	63
+iolU	scyllo-inositol 2-dehydrogenase (NADP( )) IolU	63
+group_19379	hypothetical protein	63
+ytrB	ABC transporter ATP-binding protein YtrB	63
+lolD_1	Lipoprotein-releasing system ATP-binding protein LolD	63
+group_19384	hypothetical protein	63
+group_19385	hypothetical protein	63
+barA_2	Sensor histidine kinase RcsC	63
+group_19387	Ferredoxin 1	63
+luxO_3	Regulatory protein LuxO	63
+yheI	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI	63
+group_19391	hypothetical protein	63
+trpGD_2	Bifunctional protein TrpGD	63
+nrdB	Ribonucleoside-diphosphate reductase 1 subunit beta	63
+dapA	4-hydroxy-tetrahydrodipicolinate synthase	63
+group_19395	hypothetical protein	63
+group_19396	hypothetical protein	63
+group_19397	hypothetical protein	63
+alr1	Alanine racemase	63
+group_19402	hypothetical protein	63
+pgrR_1	HTH-type transcriptional regulator PgrR	63
+group_19404	hypothetical protein	63
+lcfB	Long-chain-fatty-acid--CoA ligase	63
+group_19409	hypothetical protein	63
+ubiE_3	hypothetical protein	63
+dgcT_3	hypothetical protein	63
+dedD	Cell division protein DedD	63
+cra	Catabolite repressor/activator	63
+ygiW	Protein YgiW	63
+group_19416	hypothetical protein	63
+rlmB_1	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB	63
+yfnB	Phosphoglycolate phosphatase	63
+group_19419	hypothetical protein	63
+uspB	Universal stress protein B	63
+dgcM	hypothetical protein	63
+group_19424	Polyphosphate:ADP phosphotransferase	63
+yidZ_7	HTH-type transcriptional regulator YidZ	63
+fliH_2	hypothetical protein	63
+group_19432	hypothetical protein	63
+group_19433	hypothetical protein	63
+codB	Cytosine permease	63
+cirA	Colicin I receptor	63
+recA_1	hypothetical protein	63
+btuF	Vitamin B12-binding protein	63
+cdaR	Carbohydrate diacid regulator	63
+ohrB	Organic hydroperoxide resistance protein OhrB	63
+tusB	Protein TusB	63
+epsD	Secretin GspD	63
+potA_1	Vitamin B12 import ATP-binding protein BtuD	63
+ttgI	Toluene efflux pump outer membrane protein TtgI	63
+group_2011	hypothetical protein	63
+grxB	Glutaredoxin 2	63
+cntI_2	Riboflavin transporter	63
+group_2040	hypothetical protein	63
+group_2044	Isoleucine 2-epimerase	63
+phrB	(6-4) photolyase	63
+fccA	Cytochrome subunit of sulfide dehydrogenase	63
+paaF_1	2,3-dehydroadipyl-CoA hydratase	63
+lifO	Lipase chaperone	63
+recD	RecBCD enzyme subunit RecD	63
+csdA	Cysteine desulfurase CsdA	63
+group_2109	Inosine/xanthosine triphosphatase	63
+group_2111	hypothetical protein	63
+group_2121	hypothetical protein	63
+group_2125	hypothetical protein	63
+bcp	Peroxiredoxin Bcp	63
+group_2133	hypothetical protein	63
+yegS_2	lipid kinase YegS	63
+group_2135	hypothetical protein	63
+dltA	D-alanine--D-alanyl carrier protein ligase	63
+yciK	putative oxidoreductase YciK	63
+group_2147	hypothetical protein	63
+group_2148	Putative pseudouridine methyltransferase	63
+group_2157	hypothetical protein	63
+dsdA	D-serine dehydratase	63
+group_2173	hypothetical protein	63
+group_2192	hypothetical protein	63
+group_2204	hypothetical protein	63
+group_2207	hypothetical protein	63
+group_2212	hypothetical protein	63
+group_2220	hypothetical protein	63
+thiH	2-iminoacetate synthase	63
+group_2246	hypothetical protein	63
+fadB	Fatty acid oxidation complex subunit alpha	63
+glnM	putative glutamine ABC transporter permease protein GlnM	63
+group_2265	hypothetical protein	63
+chbR	HTH-type transcriptional activator RhaS	63
+treA	Trehalose-6-phosphate hydrolase	63
+asnB	Asparagine synthetase B [glutamine-hydrolyzing]	63
+group_2325	putative RNA pseudouridine synthase	63
+group_2340	hypothetical protein	63
+cobC	Adenosylcobalamin/alpha-ribazole phosphatase	63
+yijE	hypothetical protein	63
+purN	Phosphoribosylglycinamide formyltransferase	63
+metQ_1	D-methionine-binding lipoprotein MetQ	63
+rhlE_4	ATP-dependent RNA helicase RhlE	63
+fecD	Fe(3 ) dicitrate transport system permease protein FecD	63
+menD	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	63
+fhuC	Iron(3 )-hydroxamate import ATP-binding protein FhuC	63
+ygaZ	Inner membrane protein YgaZ	63
+oprF_1	Peptidoglycan-associated lipoprotein	63
+group_2502	hypothetical protein	63
+group_2504	hypothetical protein	63
+ubiG_1	Ubiquinone biosynthesis O-methyltransferase, mitochondrial	63
+group_2511	hypothetical protein	63
+liuE_2	3-hydroxy-3-isohexenylglutaryl-CoA/hydroxy-methylglutaryl-CoA lyase	63
+paaF_3	2,3-dehydroadipyl-CoA hydratase	63
+mmsA_2	Methylmalonate-semialdehyde dehydrogenase [acylating]	63
+group_2526	hypothetical protein	63
+sodC	Superoxide dismutase [Cu-Zn]	63
+group_2539	hypothetical protein	63
+group_2546	hypothetical protein	63
+pdxY_1	Pyridoxal kinase PdxY	63
+group_2554	hypothetical protein	63
+dmlR_8	HTH-type transcriptional regulator DmlR	63
+dmsC	Anaerobic dimethyl sulfoxide reductase chain C	63
+group_2566	3'3'-cGAMP-specific phosphodiesterase 1	63
+group_2585	hypothetical protein	63
+group_2591	hypothetical protein	63
+group_2593	hypothetical protein	63
+pxpA3	5-oxoprolinase subunit A 3	63
+dnaJ_1	hypothetical protein	63
+sodA	Superoxide dismutase [Mn]	63
+thiE_2	Thiamine-phosphate synthase	63
+group_2610	hypothetical protein	63
+group_2617	hypothetical protein	63
+yhgF	Protein YhgF	63
+yahB_2	HTH-type transcriptional regulator HdfR	63
+ubiB_1	protein kinase UbiB	63
+group_2630	hypothetical protein	63
+msrAB_2	Peptide methionine sulfoxide reductase MsrA/MsrB	63
+pctC_1	hypothetical protein	63
+adhR	HTH-type transcriptional regulator AdhR	63
+maa_1	Maltose O-acetyltransferase	63
+opuAC	hypothetical protein	63
+group_2664	hypothetical protein	63
+group_2665	hypothetical protein	63
+rimI	[Ribosomal protein S18]-alanine N-acetyltransferase	63
+group_268	Acetyl-coenzyme A synthetase	63
+srpC	putative chromate transport protein	63
+csdE	Sulfur acceptor protein CsdE	63
+rlmG	Ribosomal RNA large subunit methyltransferase G	63
+carA	Carbamoyl-phosphate synthase small chain	63
+outB	hypothetical protein	63
+pncC_2	Nicotinamide-nucleotide amidohydrolase PncC	63
+tqsA	AI-2 transport protein TqsA	63
+tsdA	Thiosulfate dehydrogenase	63
+yfkJ	Putative low molecular weight protein-tyrosine-phosphatase	63
+luxU	Phosphorelay protein LuxU	63
+pcaH	hypothetical protein	63
+yigB	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB	63
+group_2744	Putative thiamine biosynthesis protein	63
+ygfF	putative oxidoreductase YgfF	63
+group_2750	hypothetical protein	63
+nrfG	hypothetical protein	63
+mcp3	hypothetical protein	63
+group_2775	hypothetical protein	63
+xseA	Exodeoxyribonuclease 7 large subunit	63
+cutC_2	Copper homeostasis protein CutC	63
+ppx	Exopolyphosphatase	63
+liuE_1	3-hydroxy-3-isohexenylglutaryl-CoA/hydroxy-methylglutaryl-CoA lyase	63
+group_2795	hypothetical protein	63
+nhoA	Arylamine N-acetyltransferase / N-hydroxyarylamine O-acetyltransferase	63
+group_2816	hypothetical protein	63
+pgrR_4	HTH-type transcriptional regulator PgrR	63
+group_2820	N-ethylmaleimide reductase	63
+atsA_1	N-acetylgalactosamine-6-O-sulfatase	63
+pepQ	hypothetical protein	63
+group_2838	hypothetical protein	63
+pdxB	Erythronate-4-phosphate dehydrogenase	63
+group_2848	hypothetical protein	63
+gcvP	Glycine dehydrogenase (decarboxylating)	63
+fhuE	Metal-pseudopaline receptor CntO	63
+yfcE	Phosphodiesterase YfcE	63
+group_2912	hypothetical protein	63
+clsA	Cardiolipin synthase A	63
+group_2929	hypothetical protein	63
+mtlA_1	PTS system mannitol-specific EIICB component	63
+group_301	hypothetical protein	63
+group_3018	hypothetical protein	63
+group_3036	hypothetical protein	63
+group_3040	hypothetical protein	63
+murI	Glutamate racemase	63
+group_3045	hypothetical protein	63
+group_305	hypothetical protein	63
+group_3059	hypothetical protein	63
+group_3072	hypothetical protein	63
+pse4	Beta-lactamase PSE-4	63
+cusB	hypothetical protein	63
+group_3093	hypothetical protein	63
+group_3097	hypothetical protein	63
+mshD	Mycothiol acetyltransferase	63
+cmpC	Bicarbonate transport ATP-binding protein CmpC	63
+cutC_1	Choline trimethylamine-lyase	63
+group_3135	hypothetical protein	63
+tnpR	hypothetical protein	63
+fecA	Fe(3 ) dicitrate transport protein FecA	63
+torD_2	Chaperone protein TorD	63
+patZ	Peptidyl-lysine N-acetyltransferase PatZ	63
+volA	Lysophospholipase VolA	63
+epmA	Elongation factor P--(R)-beta-lysine ligase	63
+amiB	hypothetical protein	63
+group_3202	hypothetical protein	63
+rstA_2	hypothetical protein	63
+csxA	hypothetical protein	63
+tyrS_1	Tyrosine--tRNA ligase	63
+nemA_1	N-ethylmaleimide reductase	63
+group_325	hypothetical protein	63
+yccF	Inner membrane protein YccF	63
+group_3260	hypothetical protein	63
+rhtB_1	Homoserine/homoserine lactone efflux protein	63
+nlpE	hypothetical protein	63
+leuE_2	Leucine efflux protein	63
+mltD_1	hypothetical protein	63
+group_3272	hypothetical protein	63
+cah_2	Carbonic anhydrase	63
+nudF_1	hypothetical protein	63
+yhfA	Protein YhfA	63
+pgl_1	6-phosphogluconolactonase	63
+group_3302	hypothetical protein	63
+mmgC_1	Acyl-CoA dehydrogenase	63
+luxQ_3	Sensor histidine kinase RcsC	63
+group_3320	hypothetical protein	63
+group_3321	hypothetical protein	63
+gcvA_4	Glycine cleavage system transcriptional activator	63
+group_3352	hypothetical protein	63
+recB	RecBCD enzyme subunit RecB	63
+yajL	Protein/nucleic acid deglycase 3	63
+rluD	Ribosomal large subunit pseudouridine synthase D	63
+slt	Soluble lytic murein transglycosylase	63
+group_338	hypothetical protein	63
+lysU	Lysine--tRNA ligase, heat inducible	63
+prfB	Peptide chain release factor RF2	63
+cbiB	Cobalamin biosynthesis protein CbiB	63
+coaE	Dephospho-CoA kinase	63
+group_341	hypothetical protein	63
+truD	tRNA pseudouridine synthase D	63
+lepA	Elongation factor 4	63
+gltC	HTH-type transcriptional regulator GltC	63
+ttrB	Tetrathionate reductase subunit B	63
+ttrA	Tetrathionate reductase subunit A	63
+group_3429	putative ABC transporter-binding protein	63
+group_3431	hypothetical protein	63
+yqjG	Glutathionyl-hydroquinone reductase YqjG	63
+group_344	hypothetical protein	63
+oppB_2	Oligopeptide transport system permease protein OppB	63
+group_3451	hypothetical protein	63
+hemX	hypothetical protein	63
+tldD_1	Metalloprotease TldD	63
+wecD	hypothetical protein	63
+hdl IVa	hypothetical protein	63
+group_3466	hypothetical protein	63
+group_3470	hypothetical protein	63
+cbpD	GlcNAc-binding protein A	63
+dhaT	1,3-propanediol dehydrogenase	63
+norM_1	Multidrug resistance protein NorM	63
+licH_2	putative 6-phospho-beta-glucosidase	63
+group_3484	hypothetical protein	63
+group_3492	hypothetical protein	63
+group_3503	hypothetical protein	63
+coaBC	Coenzyme A biosynthesis bifunctional protein CoaBC	63
+ydcF	Protein YdcF	63
+group_3562	hypothetical protein	63
+murQ_1	N-acetylmuramic acid 6-phosphate etherase	63
+yknY_2	putative ABC transporter ATP-binding protein YknY	63
+macB_1	Macrolide export ATP-binding/permease protein MacB	63
+group_3570	hypothetical protein	63
+ytrA	hypothetical protein	63
+oapA	hypothetical protein	63
+group_3581	hypothetical protein	63
+cpdB	2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase	63
+group_3585	putative ABC transporter ATP-binding protein	63
+group_3587	hypothetical protein	63
+group_3595	hypothetical protein	63
+group_3596	hypothetical protein	63
+group_3607	hypothetical protein	63
+group_3609	hypothetical protein	63
+empA	Virulence metalloprotease	63
+leuO_1	HTH-type transcriptional regulator LeuO	63
+virS	HTH-type transcriptional regulator VirS	63
+group_3620	hypothetical protein	63
+group_3627	hypothetical protein	63
+group_3632	hypothetical protein	63
+metB	Cystathionine gamma-synthase	63
+ydeP	Protein YdeP	63
+cdr	Coenzyme A disulfide reductase	63
+group_365	hypothetical protein	63
+group_3653	hypothetical protein	63
+group_3655	hypothetical protein	63
+group_3656	hypothetical protein	63
+group_3663	hypothetical protein	63
+ycjG	L-Ala-D/L-Glu epimerase	63
+feoB	Fe(2 ) transporter FeoB	63
+group_3719	1,4-dihydroxy-2-naphthoyl-CoA hydrolase	63
+fliY	L-cystine-binding protein FliY	63
+icd2	Isocitrate dehydrogenase [NADP] 2	63
+phoD	Alkaline phosphatase D	63
+ddl_2	hypothetical protein	63
+hcr	NADH oxidoreductase HCR	63
+tcaR	hypothetical protein	63
+comC	hypothetical protein	63
+epsE_1	Type II secretion system protein E	63
+mshA_1	D-inositol-3-phosphate glycosyltransferase	63
+group_385	hypothetical protein	63
+rluE	Ribosomal large subunit pseudouridine synthase E	63
+yejF	putative ABC transporter ATP-binding protein YejF	63
+group_388	hypothetical protein	63
+trpGD_1	Bifunctional protein TrpGD	63
+group_3891	hypothetical protein	63
+group_3904	Putative multidrug export ATP-binding/permease protein	63
+group_3922	hypothetical protein	63
+group_3925	hypothetical protein	63
+gtf1_1	hypothetical protein	63
+katG_2	Catalase-peroxidase	63
+ompP1	Outer membrane protein P1	63
+group_3947	hypothetical protein	63
+coaA_1	Pantothenate kinase	63
+tyrP_1	Tyrosine-specific transport protein	63
+ribN	Riboflavin transporter	63
+ycgM	putative protein YcgM	63
+leuE_1	Leucine efflux protein	63
+ctaA	Heme A synthase	63
+lolE_1	hypothetical protein	63
+group_3978	putative protein	63
+acs_2	Acetyl-coenzyme A synthetase	63
+rhlE_2	ATP-dependent RNA helicase RhlE	63
+group_3986	hypothetical protein	63
+artI	Putative ABC transporter arginine-binding protein 2	63
+sspA_1	Stringent starvation protein A	63
+group_4000	hypothetical protein	63
+gcvA_1	Glycine cleavage system transcriptional activator	63
+comR	hypothetical protein	63
+dmlR_4	HTH-type transcriptional regulator DmlR	63
+group_4023	hypothetical protein	63
+bsn	hypothetical protein	63
+mshA_2	D-inositol-3-phosphate glycosyltransferase	63
+group_4076	hypothetical protein	63
+group_408	hypothetical protein	63
+pxpB	5-oxoprolinase subunit B	63
+spoIVFB	hypothetical protein	63
+yceJ	Cytochrome b561 	63
+yqhD	Alcohol dehydrogenase YqhD	63
+fumC	Fumarate hydratase class II	63
+group_410	hypothetical protein	63
+group_412	hypothetical protein	63
+group_4134	hypothetical protein	63
+outN	Type II secretion system protein N	63
+group_4152	hypothetical protein	63
+czcA_2	Cobalt-zinc-cadmium resistance protein CzcA	63
+rhtB_2	Homoserine/homoserine lactone efflux protein	63
+rstB	Sensor histidine kinase RcsC	63
+group_417	hypothetical protein	63
+group_4171	hypothetical protein	63
+napF_1	Ferredoxin-type protein NapF	63
+group_4173	hypothetical protein	63
+glpE_2	Thiosulfate sulfurtransferase GlpE	63
+group_4184	hypothetical protein	63
+flgI_1	Flagellar P-ring protein	63
+group_4206	hypothetical protein	63
+dgcC_1	hypothetical protein	63
+tnaA	Tryptophanase	63
+group_4217	hypothetical protein	63
+prsE_1	Type I secretion system membrane fusion protein PrsE	63
+group_4221	hypothetical protein	63
+cshA	DEAD-box ATP-dependent RNA helicase CshA	63
+aroG	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive	63
+mntH	hypothetical protein	63
+livF	High-affinity branched-chain amino acid transport ATP-binding protein LivF	63
+appB	Cytochrome bd-II ubiquinol oxidase subunit 2	63
+cydA_1	Cytochrome bd-I ubiquinol oxidase subunit 1	63
+group_4247	Major NAD(P)H-flavin oxidoreductase	63
+rhaS_1	HTH-type transcriptional activator RhaS	63
+group_4260	hypothetical protein	63
+group_4284	hypothetical protein	63
+adaA	HTH-type transcriptional activator RhaR	63
+group_4287	hypothetical protein	63
+group_4296	hypothetical protein	63
+group_4310	hypothetical protein	63
+group_4316	hypothetical protein	63
+anmK	Anhydro-N-acetylmuramic acid kinase	63
+miaB_1	hypothetical protein	63
+rsmH	Ribosomal RNA small subunit methyltransferase H	63
+sspB	hypothetical protein	63
+degS	Serine endoprotease DegS	63
+group_4355	hypothetical protein	63
+group_4366	hypothetical protein	63
+group_4373	hypothetical protein	63
+rlmD	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD	63
+rseC	Protein RseC	63
+group_4386	hypothetical protein	63
+group_439	hypothetical protein	63
+dtd3	D-aminoacyl-tRNA deacylase	63
+group_4399	hypothetical protein	63
+group_4401	hypothetical protein	63
+dmlR_12	HTH-type transcriptional regulator DmlR	63
+group_4424	hypothetical protein	63
+group_443	hypothetical protein	63
+group_4433	hypothetical protein	63
+fosB	hypothetical protein	63
+ymdB	O-acetyl-ADP-ribose deacetylase	63
+farB	Fatty acid resistance protein FarB	63
+emrK	putative multidrug resistance protein EmrK	63
+group_4444	hypothetical protein	63
+chbG	Chitooligosaccharide deacetylase ChbG	63
+chbA	PTS system N,N'-diacetylchitobiose-specific EIIA component	63
+mlaC	Intermembrane phospholipid transport system binding protein MlaC	63
+ycjX	putative protein YcjX	63
+pdeD_2	hypothetical protein	63
+group_4472	hypothetical protein	63
+yciI	Protein YciI	63
+qseC_1	hypothetical protein	63
+flgJ	Peptidoglycan hydrolase FlgJ	63
+group_4498	hypothetical protein	63
+yciN	Protein YciN	63
+group_4513	hypothetical protein	63
+group_4516	hypothetical protein	63
+bioA	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	63
+ufaA1	Tuberculostearic acid methyltransferase UfaA1	63
+lpxH	UDP-2,3-diacylglucosamine hydrolase	63
+yahB_1	putative HTH-type transcriptional regulator YahB	63
+group_4528	hypothetical protein	63
+group_4530	hypothetical protein	63
+pepD	Cytosol non-specific dipeptidase	63
+tadA	tRNA-specific adenosine deaminase	63
+phoR	Phosphate regulon sensor protein PhoR	63
+yhhW	Quercetin 2,3-dioxygenase	63
+nhaD	Na( )/H( ) antiporter NhaD	63
+vanT	hypothetical protein	63
+group_4570	hypothetical protein	63
+dgt	Deoxyguanosinetriphosphate triphosphohydrolase-like protein	63
+cysW_3	hypothetical protein	63
+group_4583	hypothetical protein	63
+group_4584	hypothetical protein	63
+ygfZ	tRNA-modifying protein YgfZ	63
+hemW	Heme chaperone HemW	63
+mltC	Membrane-bound lytic murein transglycosylase C	63
+def2	Peptide deformylase 2	63
+group_4624	hypothetical protein	63
+yecN	Inner membrane protein YecN	63
+yegS	putative lipid kinase YegS	63
+chuR_2	Anaerobic sulfatase-maturating enzyme	63
+group_4636	hypothetical protein	63
+group_4650	hypothetical protein	63
+group_4657	hypothetical protein	63
+group_4658	hypothetical protein	63
+csrD	RNase E specificity factor CsrD	63
+group_4668	hypothetical protein	63
+aroE	Shikimate dehydrogenase (NADP( ))	63
+hemF	Oxygen-dependent coproporphyrinogen-III oxidase	63
+thlA_2	Acetyl-CoA acetyltransferase	63
+group_4695	hypothetical protein	63
+pgi	Glucose-6-phosphate isomerase	63
+group_4705	hypothetical protein	63
+group_4706	hypothetical protein	63
+cobQ	Cobyric acid synthase	63
+rssB_2	Regulator of RpoS	63
+paaF_2	2,3-dehydroadipyl-CoA hydratase	63
+group_4733	hypothetical protein	63
+btuD_5	Vitamin B12 import ATP-binding protein BtuD	63
+group_4739	hypothetical protein	63
+kdsB	3-deoxy-manno-octulosonate cytidylyltransferase	63
+comEC	hypothetical protein	63
+ribD_2	Riboflavin biosynthesis protein RibD	63
+lipA	Lipoyl synthase	63
+lipB	Octanoyltransferase	63
+holA	DNA polymerase III subunit delta	63
+lptE	LPS-assembly lipoprotein LptE	63
+ldhA	D-lactate dehydrogenase	63
+group_4779	hypothetical protein	63
+ugpQ	Glycerophosphodiester phosphodiesterase, cytoplasmic	63
+tolQ_2	Tol-Pal system protein TolQ	63
+exbD	Tol-Pal system protein TolR	63
+mntB	Manganese transport system ATP-binding protein MntB	63
+ptrB_1	Protease 2	63
+viaA	Protein ViaA	63
+group_4799	hypothetical protein	63
+group_4805	hypothetical protein	63
+group_4806	hypothetical protein	63
+uhpB	Signal transduction histidine-protein kinase/phosphatase UhpB	63
+ybbJ	Inner membrane protein YbbJ	63
+ybaL	Putative cation/proton antiporter YbaL	63
+group_4823	hypothetical protein	63
+group_4828	hypothetical protein	63
+purU	Formyltetrahydrofolate deformylase	63
+group_4836	hypothetical protein	63
+luxO_1	Regulatory protein LuxO	63
+pspB_2	Phage shock protein B	63
+nodD2_1	Nodulation protein D 2	63
+group_4853	ATP-dependent RNA helicase RhlE	63
+yciB_1	hypothetical protein	63
+sdcS_3	Sodium-dependent dicarboxylate transporter SdcS	63
+group_4882	hypothetical protein	63
+ttgF	Toluene efflux pump outer membrane protein TtgF	63
+rsgA_1	Small ribosomal subunit biogenesis GTPase RsgA	63
+glgX	Glycogen operon protein GlgX 	63
+group_4928	hypothetical protein	63
+licC	Lichenan permease IIC component	63
+group_500	hypothetical protein	63
+aaeB_1	hypothetical protein	63
+kdsD	Arabinose 5-phosphate isomerase KdsD	63
+hdfR_5	HTH-type transcriptional regulator HdfR	63
+gltK	hypothetical protein	63
+flgK_2	hypothetical protein	63
+rne	Ribonuclease E	63
+mrcB	Penicillin-binding protein 1B	63
+group_5076	hypothetical protein	63
+group_5096	hypothetical protein	63
+group_510	hypothetical protein	63
+mleN_4	hypothetical protein	63
+fhuB	Iron(3 )-hydroxamate import system permease protein FhuB	63
+group_5143	Azurin	63
+pyrC	Dihydroorotase	63
+group_5148	hypothetical protein	63
+group_5157	hypothetical protein	63
+sgrR_1	HTH-type transcriptional regulator SgrR	63
+group_5166	Acetyltransferase	63
+ctaD	Cytochrome c oxidase subunit 1	63
+group_5169	hypothetical protein	63
+mupP	Phosphoglycolate phosphatase	63
+group_5182	hypothetical protein	63
+bdlA_1	Biofilm dispersion protein BdlA	63
+mmgC_2	Acyl-CoA dehydrogenase	63
+caiD	Carnitinyl-CoA dehydratase	63
+cssS	hypothetical protein	63
+pleD_1	hypothetical protein	63
+group_5194	hypothetical protein	63
+group_5195	Cyclic di-GMP binding protein	63
+elfC	hypothetical protein	63
+sprT_1	hypothetical protein	63
+fliI_1	Flagellum-specific ATP synthase	63
+group_5201	hypothetical protein	63
+fliN_1	hypothetical protein	63
+group_5207	hypothetical protein	63
+lafL	Flagellar protein LafL	63
+lafU	Chemotaxis protein LafU	63
+group_5216	hypothetical protein	63
+group_5217	hypothetical protein	63
+dacA_2	D-alanyl-D-alanine carboxypeptidase DacA	63
+nagE_1	PTS system N-acetylglucosamine-specific EIICBA component	63
+group_5231	hypothetical protein	63
+mdtG	Multidrug resistance protein MdtG	63
+rpfG	hypothetical protein	63
+mdh_2	hypothetical protein	63
+ndhI	Ion-translocating oxidoreductase complex subunit B	63
+group_5258	hypothetical protein	63
+atoS_3	Adaptive-response sensory-kinase SasA	63
+group_5261	hypothetical protein	63
+dgcC_2	hypothetical protein	63
+ribC	Riboflavin synthase	63
+pal_2	Peptidoglycan-associated lipoprotein	63
+ywqD	hypothetical protein	63
+group_5270	D-inositol-3-phosphate glycosyltransferase	63
+group_5275	Glycine betaine/proline/choline/ectoine transporter	63
+group_5277	hypothetical protein	63
+group_5279	hypothetical protein	63
+mmsB_1	3-hydroxyisobutyrate dehydrogenase	63
+yciH	putative protein YciH	63
+cutA	Divalent-cation tolerance protein CutA	63
+group_5285	hypothetical protein	63
+group_5289	hypothetical protein	63
+acpH	Acyl carrier protein phosphodiesterase	63
+rhaS_2	HTH-type transcriptional activator RhaS	63
+group_5299	Sodium-dependent dicarboxylate transporter SdcS	63
+opuAA	Glycine betaine transport ATP-binding protein OpuAA	63
+rsgA_2	Small ribosomal subunit biogenesis GTPase RsgA	63
+group_5302	hypothetical protein	63
+trpS	Tryptophan--tRNA ligase	63
+yihI	Der GTPase-activating protein YihI	63
+group_5343	hypothetical protein	63
+group_535	hypothetical protein	63
+pdeR_1	hypothetical protein	63
+ppsA	Phosphoenolpyruvate synthase	63
+ansB	L-asparaginase 2	63
+tetD	HTH-type transcriptional activator RhaS	63
+group_5361	hypothetical protein	63
+rstA	Transcriptional regulatory protein RstA	63
+group_5364	putative oxidoreductase	63
+dsbA_1	Thiol:disulfide interchange protein DsbA	63
+mgtE_1	Magnesium transporter MgtE	63
+group_5370	hypothetical protein	63
+gap2	Glyceraldehyde-3-phosphate dehydrogenase-like protein	63
+group_5375	hypothetical protein	63
+group_5377	hypothetical protein	63
+group_5378	hypothetical protein	63
+phaB	Acetoacetyl-CoA reductase	63
+ompA_1	Outer membrane protein A	63
+soxR	Redox-sensitive transcriptional activator SoxR	63
+ompV	Outer membrane protein OmpV	63
+gcvA_2	Glycine cleavage system transcriptional activator	63
+pncA	hypothetical protein	63
+csqR	HTH-type transcriptional repressor CsqR	63
+groS_1	10 kDa chaperonin	63
+flgJ_1	hypothetical protein	63
+group_5402	hypothetical protein	63
+pcpR_1	HTH-type transcriptional regulator YidZ	63
+ompA_3	Outer membrane protein A	63
+group_5407	hypothetical protein	63
+vdcA	Diguanylate cyclase VdcA	63
+prsD	Type I secretion system ATP-binding protein PrsD	63
+ltxA_1	hypothetical protein	63
+yiaV_1	Inner membrane protein YiaV	63
+nnr	Bifunctional NAD(P)H-hydrate repair enzyme Nnr	63
+zntR_1	HTH-type transcriptional regulator ZntR	63
+group_5435	hypothetical protein	63
+group_5437	hypothetical protein	63
+yclN	Petrobactin import system permease protein YclN	63
+group_5456	hypothetical protein	63
+minD_1	hypothetical protein	63
+group_5459	hypothetical protein	63
+pcpR_2	PCP degradation transcriptional activation protein	63
+dapD	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	63
+mltA	Membrane-bound lytic murein transglycosylase A	63
+ampG	Anhydromuropeptide permease	63
+nqrA	Na( )-translocating NADH-quinone reductase subunit A	63
+group_5470	hypothetical protein	63
+dinB	DNA polymerase IV	63
+greA_1	hypothetical protein	63
+trmO	tRNA (adenine(37)-N6)-methyltransferase	63
+aroF	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive	63
+ispH	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	63
+fkpB	FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase	63
+yfiC	tRNA1(Val) (adenine(37)-N6)-methyltransferase	63
+ung	Uracil-DNA glycosylase	63
+group_5492	hypothetical protein	63
+group_5493	hypothetical protein	63
+group_5505	hypothetical protein	63
+diaA	DnaA initiator-associating protein DiaA	63
+group_5507	hypothetical protein	63
+kcsA	hypothetical protein	63
+folK_1	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	63
+catD	3-oxoadipate enol-lactonase 2	63
+tsaD	tRNA N6-adenosine threonylcarbamoyltransferase	63
+dxr	1-deoxy-D-xylulose 5-phosphate reductoisomerase	63
+group_5519	hypothetical protein	63
+mltD_2	hypothetical protein	63
+panC	Pantothenate synthetase	63
+lpxL_2	Lipid A biosynthesis lauroyltransferase	63
+oadG	oxaloacetate decarboxylase gamma chain	63
+group_5542	Multidrug resistance protein MdtA	63
+group_5546	hypothetical protein	63
+ubiJ_1	Ubiquinone biosynthesis accessory factor UbiJ	63
+group_5553	Macrolide export ATP-binding/permease protein MacB	63
+macA_2	Macrolide export protein MacA	63
+group_5557	hypothetical protein	63
+pqiB	Intermembrane transport protein PqiB	63
+group_5560	hypothetical protein	63
+pabC	Aminodeoxychorismate lyase	63
+btuR	Corrinoid adenosyltransferase	63
+group_5574	hypothetical protein	63
+ubiC	Chorismate pyruvate-lyase	63
+glpE_3	Thiosulfate sulfurtransferase GlpE	63
+group_5581	hypothetical protein	63
+gap3	Glyceraldehyde-3-phosphate dehydrogenase 3	63
+group_5583	hypothetical protein	63
+hemD	Uroporphyrinogen-III synthase	63
+group_5588	hypothetical protein	63
+group_5591	hypothetical protein	63
+msbA_1	Vitamin B12 import ATP-binding protein BtuD	63
+hupR1	Hydrogenase transcriptional regulatory protein hupR1	63
+tfoX1_1	DNA transformation protein TfoX1	63
+lysO	Lysine exporter LysO	63
+fabV_2	Enoyl-[acyl-carrier-protein] reductase [NADH]	63
+fadE_1	Acyl-coenzyme A dehydrogenase	63
+mprA_2	Response regulator MprA	63
+lptG	Lipopolysaccharide export system permease protein LptG	63
+pepA	Cytosol aminopeptidase	63
+tyrR	Transcriptional regulatory protein TyrR	63
+pabB	Aminodeoxychorismate synthase component 1	63
+group_5629	hypothetical protein	63
+queD	6-carboxy-5,6,7,8-tetrahydropterin synthase	63
+dinG_3	3'-5' exonuclease DinG	63
+gloC	Hydroxyacylglutathione hydrolase GloC	63
+group_5642	hypothetical protein	63
+nrfB	Cytochrome c-type protein NrfB	63
+ltxA_2	hypothetical protein	63
+cusR	Transcriptional regulatory protein CusR	63
+group_5669	hypothetical protein	63
+group_5677	hypothetical protein	63
+group_5678	hypothetical protein	63
+aat	Leucyl/phenylalanyl-tRNA--protein transferase	63
+group_5698	hypothetical protein	63
+group_570	hypothetical protein	63
+iga	hypothetical protein	63
+group_5705	hypothetical protein	63
+acrE	Multidrug export protein AcrE	63
+manA_1	Mannose-6-phosphate isomerase	63
+bioC	Malonyl-[acyl-carrier protein] O-methyltransferase	63
+hisG	ATP phosphoribosyltransferase	63
+yeeZ	Protein YeeZ	63
+torA	Trimethylamine-N-oxide reductase	63
+group_5730	hypothetical protein	63
+fliM	hypothetical protein	63
+fliR_2	Flagellar biosynthetic protein FliR	63
+flhA_2	Flagellar biosynthesis protein FlhA	63
+doeB_2	N-alpha-acetyl-L-2,4-diaminobutyric acid deacetylase	63
+abgT_2	p-aminobenzoyl-glutamate transport protein	63
+dnaJ	Chaperone protein DnaJ	63
+mepA_3	Penicillin-insensitive murein endopeptidase	63
+group_5767	hypothetical protein	63
+group_5770	Riboflavin biosynthesis protein	63
+group_5772	hypothetical protein	63
+gltR	HTH-type transcriptional regulator HdfR	63
+alkA	putative bifunctional transcriptional activator/DNA repair enzyme AlkA	63
+yeeO_3	putative FMN/FAD exporter YeeO	63
+dmlR_1	HTH-type transcriptional regulator DmlR	63
+ybiV	Sugar phosphatase YbiV	63
+dgcN_1	hypothetical protein	63
+ftsN	Cell division protein FtsN	63
+group_5788	hypothetical protein	63
+dbpA	ATP-dependent RNA helicase DbpA	63
+msrA	Peptide methionine sulfoxide reductase MsrA	63
+lplT	Lysophospholipid transporter LplT	63
+group_5798	hypothetical protein	63
+menC	o-succinylbenzoate synthase	63
+menH_2	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase	63
+group_5802	hypothetical protein	63
+lon_2	Lon protease	63
+dctB_2	C4-dicarboxylate transport sensor protein DctB	63
+dctD_4	C4-dicarboxylate transport transcriptional regulatory protein DctD	63
+ispB	Octaprenyl diphosphate synthase	63
+group_5826	hypothetical protein	63
+rseA	Anti-sigma-E factor RseA	63
+ubiI	2-octaprenylphenol hydroxylase	63
+group_5833	hypothetical protein	63
+sprT	Protein SprT	63
+group_5839	hypothetical protein	63
+group_5847	hypothetical protein	63
+cntI	Pseudopaline exporter CntI	63
+group_5854	hypothetical protein	63
+rarD_1	Protein RarD	63
+ribD_1	Riboflavin biosynthesis protein RibD	63
+group_5866	hypothetical protein	63
+rhaS_3	HTH-type transcriptional activator RhaS	63
+uvrD	DNA helicase II	63
+group_5874	hypothetical protein	63
+yiaD_2	Peptidoglycan-associated lipoprotein	63
+group_5878	hypothetical protein	63
+group_5880	hypothetical protein	63
+yejM_2	Inner membrane protein YejM	63
+topB	DNA topoisomerase 3	63
+group_589	hypothetical protein	63
+dmlR_13	HTH-type transcriptional regulator DmlR	63
+epmC	Elongation factor P hydroxylase	63
+sigE_2	ECF RNA polymerase sigma factor SigE	63
+pucG	(S)-ureidoglycine--glyoxylate transaminase	63
+yrdA	Protein YrdA	63
+group_5903	hypothetical protein	63
+fmt	Methionyl-tRNA formyltransferase	63
+spo0M_2	Sporulation-control protein spo0M	63
+yihG	putative acyltransferase YihG	63
+rsmG	Ribosomal RNA small subunit methyltransferase G	63
+mioC	Protein MioC	63
+ibpA	Small heat shock protein IbpA	63
+trkH	Trk system potassium uptake protein TrkH	63
+maeB	NADP-dependent malic enzyme	63
+group_5927	hypothetical protein	63
+nrdG	Anaerobic ribonucleoside-triphosphate reductase-activating protein	63
+yeeO_1	putative FMN/FAD exporter YeeO	63
+cadC	Transcriptional activator CadC	63
+bepC_1	Outer membrane efflux protein BepC	63
+group_5947	hypothetical protein	63
+ydaF_1	Putative ribosomal N-acetyltransferase YdaF	63
+group_5951	hypothetical protein	63
+group_5959	hypothetical protein	63
+rimK	Ribosomal protein S6--L-glutamate ligase	63
+yliI	Aldose sugar dehydrogenase YliI	63
+pgpA	Phosphatidylglycerophosphatase A	63
+dxs	1-deoxy-D-xylulose-5-phosphate synthase	63
+queF	NADPH-dependent 7-cyano-7-deazaguanine reductase	63
+treB	PTS system trehalose-specific EIIBC component	63
+group_5998	hypothetical protein	63
+mrdA	Peptidoglycan D,D-transpeptidase MrdA	63
+cpxR_1	Transcriptional regulatory protein CpxR	63
+group_6003	hypothetical protein	63
+mcpQ_3	hypothetical protein	63
+group_6012	hypothetical protein	63
+uhpC_1	Membrane sensor protein UhpC	63
+cadC_1	hypothetical protein	63
+glnS	Glutamine--tRNA ligase	63
+gltA	Citrate synthase	63
+sucA	2-oxoglutarate dehydrogenase E1 component	63
+sucC	Succinate--CoA ligase [ADP-forming] subunit beta	63
+rluA	Dual-specificity RNA pseudouridine synthase RluA	63
+slyB	Outer membrane lipoprotein SlyB	63
+pspF	Psp operon transcriptional activator	63
+eamB	hypothetical protein	63
+group_607	hypothetical protein	63
+hupR1_2	hypothetical protein	63
+priC	Primosomal replication protein N''	63
+pleD_3	hypothetical protein	63
+group_6089	hypothetical protein	63
+group_611	hypothetical protein	63
+hpcD	hypothetical protein	63
+group_6118	hypothetical protein	63
+group_612	hypothetical protein	63
+dsdC_2	HTH-type transcriptional regulator ArgP	63
+group_6125	hypothetical protein	63
+ykoD	Putative HMP/thiamine import ATP-binding protein YkoD	63
+group_6147	hypothetical protein	63
+group_620	hypothetical protein	63
+pqiC	Intermembrane transport lipoprotein PqiC	63
+group_6242	hypothetical protein	63
+dtpA	Dipeptide and tripeptide permease A	63
+group_633	hypothetical protein	63
+group_6348	hypothetical protein	63
+group_6366	Monocarboxylate 2-oxoacid-binding periplasmic protein	63
+aceF	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex	63
+serC	Phosphoserine aminotransferase	63
+group_6428	hypothetical protein	63
+glcB	Malate synthase G	63
+group_6459	hypothetical protein	63
+gtf1	hypothetical protein	63
+rodZ	Cytoskeleton protein RodZ	63
+fhuA	Ferrichrome outer membrane transporter/phage receptor	63
+manP_3	hypothetical protein	63
+curA	NADPH-dependent curcumin reductase	63
+group_6577	hypothetical protein	63
+ptk	hypothetical protein	63
+group_6581	hypothetical protein	63
+czrA	hypothetical protein	63
+ybhF	putative multidrug ABC transporter ATP-binding protein YbhF	63
+btr	HTH-type transcriptional activator RhaS	63
+pgcA	Phosphoglucomutase	63
+ctaC	hypothetical protein	63
+fklB_1	hypothetical protein	63
+group_6601	hypothetical protein	63
+phhA	Phenylalanine-4-hydroxylase	63
+group_6604	hypothetical protein	63
+group_6611	hypothetical protein	63
+yeiR	Zinc-binding GTPase YeiR	63
+rhlE_3	ATP-dependent RNA helicase RhlE	63
+hutG_1	Formimidoylglutamase	63
+modF	ABC transporter ATP-binding protein ModF	63
+zntR_2	HTH-type transcriptional regulator ZntR	63
+mmsB_2	3-hydroxyisobutyrate dehydrogenase	63
+artP	Arginine transport ATP-binding protein ArtP	63
+ltaE	Low specificity L-threonine aldolase	63
+group_6628	ADP-ribose pyrophosphatase	63
+lutP	L-lactate permease	63
+group_6632	hypothetical protein	63
+cefD	Isopenicillin N epimerase	63
+group_6635	hypothetical protein	63
+fliH_1	hypothetical protein	63
+fliP	Flagellar biosynthetic protein FliP	63
+lafS	RNA polymerase sigma factor for flagellar operon	63
+mdtL_1	Multidrug resistance protein MdtL	63
+group_6642	DNA-binding protein	63
+group_6643	hypothetical protein	63
+group_6644	hypothetical protein	63
+sstT	Serine/threonine transporter SstT	63
+esiB	hypothetical protein	63
+fecE	Fe(3 ) dicitrate transport ATP-binding protein FecE	63
+group_6655	hypothetical protein	63
+group_6656	hypothetical protein	63
+mepS	Murein DD-endopeptidase MepS/Murein LD-carboxypeptidase	63
+group_6682	putative ketoamine kinase	63
+tuaA	hypothetical protein	63
+ompA_7	Outer membrane protein A	63
+group_6685	hypothetical protein	63
+group_6688	hypothetical protein	63
+ddl	D-alanine--D-alanine ligase	63
+group_6690	hypothetical protein	63
+group_6691	Arylesterase	63
+menI	1,4-dihydroxy-2-naphthoyl-CoA hydrolase	63
+pdeD	putative cyclic di-GMP phosphodiesterase PdeD	63
+mcpQ_1	hypothetical protein	63
+polC_2	DNA polymerase III PolC-type	63
+dsbD_2	Thiol:disulfide interchange protein DsbD	63
+dcuA	Anaerobic C4-dicarboxylate transporter DcuA	63
+group_6703	hypothetical protein	63
+trmL	tRNA (cytidine(34)-2'-O)-methyltransferase	63
+groS_2	10 kDa chaperonin	63
+bsrV_2	Broad specificity amino-acid racemase	63
+epmB	L-lysine 2,3-aminomutase	63
+hfq	RNA-binding protein Hfq	63
+purA_2	Adenylosuccinate synthetase	63
+group_6720	hypothetical protein	63
+slyX	Protein SlyX 	63
+group_6723	hypothetical protein	63
+group_6745	hypothetical protein	63
+group_6747	hypothetical protein	63
+pckA	Phosphoenolpyruvate carboxykinase (ATP)	63
+hslO	33 kDa chaperonin	63
+epsH	Type II secretion system protein H	63
+xcpV	Type II secretion system protein I	63
+epsL	Type II secretion system protein L	63
+oppF_3	Oligopeptide transport ATP-binding protein OppF	63
+group_6765	hypothetical protein	63
+bepF_2	Efflux pump periplasmic linker BepF	63
+group_6767	hypothetical protein	63
+dgkA_1	Diacylglycerol kinase	63
+group_6773	hypothetical protein	63
+group_6774	hypothetical protein	63
+group_6775	hypothetical protein	63
+codA	Cytosine deaminase	63
+rhtC_1	Threonine efflux protein	63
+narQ	Nitrate/nitrite sensor protein NarQ	63
+group_6788	hypothetical protein	63
+ompA_2	Outer membrane protein A	63
+group_6792	hypothetical protein	63
+group_6794	hypothetical protein	63
+group_6795	hypothetical protein	63
+nhaP2_1	K( )/H( ) antiporter NhaP2	63
+flgB_1	Flagellar basal body rod protein FlgB	63
+macA_1	Macrolide export protein MacA	63
+yjjG	Pyrimidine 5'-nucleotidase YjjG	63
+group_6805	hypothetical protein	63
+group_6807	hypothetical protein	63
+lhgD	L-2-hydroxyglutarate dehydrogenase	63
+dctM_1	hypothetical protein	63
+group_6811	hypothetical protein	63
+group_6813	hypothetical protein	63
+bluR	hypothetical protein	63
+group_6816	hypothetical protein	63
+rfnT	Riboflavin transporter RfnT	63
+talB	Transaldolase B	63
+group_6820	hypothetical protein	63
+group_6821	hypothetical protein	63
+cheB_1	Protein-glutamate methylesterase/protein-glutamine glutaminase	63
+ccpA	Cytochrome c551 peroxidase	63
+group_6837	hypothetical protein	63
+rbsD	D-ribose pyranase	63
+yclQ	Petrobactin-binding protein YclQ	63
+gspK_2	Glucosamine kinase GspK	63
+group_6844	hypothetical protein	63
+czcB	p-hydroxybenzoic acid efflux pump subunit AaeA	63
+mepM_2	Murein DD-endopeptidase MepM	63
+deoC	Deoxyribose-phosphate aldolase	63
+deoD1	Purine nucleoside phosphorylase DeoD-type 1	63
+pulD	Type 3 secretion system secretin	63
+lacR	HTH-type transcriptional repressor MelR	63
+cysL_4	HTH-type transcriptional regulator HdfR	63
+group_6866	hypothetical protein	63
+group_6867	hypothetical protein	63
+group_6868	hypothetical protein	63
+bamD	Outer membrane protein assembly factor BamD	63
+group_687	hypothetical protein	63
+trpR	Trp operon repressor	63
+lspA	Lipoprotein signal peptidase	63
+murJ	putative lipid II flippase MurJ	63
+nhaR	Transcriptional activator protein NhaR	63
+group_6875	hypothetical protein	63
+lgt	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase	63
+group_6878	hypothetical protein	63
+fldB	Flavodoxin 2	63
+grcA	Autonomous glycyl radical cofactor	63
+gltD_2	Glutamate synthase [NADPH] small chain	63
+murC	UDP-N-acetylmuramate--L-alanine ligase	63
+ftsW	putative peptidoglycan glycosyltransferase FtsW	63
+rsmI	Ribosomal RNA small subunit methyltransferase I	63
+pip	Proline iminopeptidase	63
+group_6890	hypothetical protein	63
+cdsA	Phosphatidate cytidylyltransferase	63
+lpxA	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase	63
+petJ	Cytochrome c6	63
+group_6899	hypothetical protein	63
+group_6900	hypothetical protein	63
+yfgD	putative protein YfgD	63
+group_6903	hypothetical protein	63
+yfeZ	hypothetical protein	63
+sfsA	Sugar fermentation stimulation protein A	63
+pdhR	Pyruvate dehydrogenase complex repressor	63
+nadC	Nicotinate-nucleotide pyrophosphorylase [carboxylating]	63
+zapD	Cell division protein ZapD	63
+rplS	50S ribosomal protein L19	63
+group_6912	2-haloacrylate reductase	63
+pyrH_2	Aspartate kinase	63
+nlpD	Murein hydrolase activator NlpD	63
+ftsB	Cell division protein FtsB	63
+pyrG	CTP synthase	63
+group_6921	putative HTH-type transcriptional regulator	63
+group_6922	hypothetical protein	63
+mdtJ	Spermidine export protein MdtJ	63
+gntK	Thermoresistant gluconokinase	63
+rsmJ	Ribosomal RNA small subunit methyltransferase J	63
+group_6934	hypothetical protein	63
+group_6935	hypothetical protein	63
+ubiB_2	putative protein kinase UbiB	63
+tatB	Sec-independent protein translocase protein TatB	63
+ttrR_2	Tetrathionate response regulatory protein TtrR	63
+ihfB	Integration host factor subunit beta	63
+sohB	putative protease SohB	63
+cheV_3	Chemotaxis protein CheV	63
+ycfH	putative metal-dependent hydrolase YcfH	63
+tmk	Thymidylate kinase	63
+dsbB	Disulfide bond formation protein B	63
+ackA_2	Acetate kinase	63
+moaE	Molybdopterin synthase catalytic subunit	63
+rnfB	Ion-translocating oxidoreductase complex subunit B	63
+fabR	HTH-type transcriptional repressor FabR	63
+ubiA	4-hydroxybenzoate octaprenyltransferase	63
+ftsX	Cell division protein FtsX	63
+group_6970	hypothetical protein	63
+group_6971	hypothetical protein	63
+wecH	O-acetyltransferase WecH	63
+arsR2	Arsenic resistance transcriptional regulator ArsR2	63
+pldB	Lysophospholipase L2	63
+group_6976	hypothetical protein	63
+cydD	ATP-binding/permease protein CydD	63
+group_6982	hypothetical protein	63
+group_6983	hypothetical protein	63
+group_6984	hypothetical protein	63
+phoQ	Virulence sensor histidine kinase PhoQ	63
+ttrS_1	Tetrathionate sensor histidine kinase TtrS	63
+ascG	HTH-type transcriptional regulator AscG	63
+group_6990	hypothetical protein	63
+pyrI	Aspartate carbamoyltransferase regulatory chain	63
+mlaB	hypothetical protein	63
+group_6994	hypothetical protein	63
+mcpP_4	hypothetical protein	63
+aspC	Aspartate aminotransferase	63
+hrp1_1	hypothetical protein	63
+nreB	hypothetical protein	63
+dctM_3	C4-dicarboxylate TRAP transporter large permease protein DctM	63
+irpA	hypothetical protein	63
+nrfA	Cytochrome c-552	63
+pncC_1	Nicotinamide-nucleotide amidohydrolase PncC	63
+group_7007	hypothetical protein	63
+group_7009	hypothetical protein	63
+yciV	5'-3' exoribonuclease	63
+trpC	Tryptophan biosynthesis protein TrpCF	63
+yciB	putative intracellular septation protein A	63
+flgL_2	hypothetical protein	63
+group_7014	hypothetical protein	63
+ybaK_2	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK	63
+ispE	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	63
+prs	Ribose-phosphate pyrophosphokinase	63
+inhA	Isonitrile hydratase	63
+cmoB	tRNA U34 carboxymethyltransferase	63
+ruvA	Holliday junction ATP-dependent DNA helicase RuvA	63
+group_7035	hypothetical protein	63
+ybgC	Acyl-CoA thioester hydrolase YbgC	63
+bioD1	ATP-dependent dethiobiotin synthetase BioD 1	63
+hisI	Histidine biosynthesis bifunctional protein HisIE	63
+cdgJ_1	Cyclic di-GMP phosphodiesterase CdgJ	63
+fetB	putative iron export permease protein FetB	63
+galA	hypothetical protein	63
+group_7047	hypothetical protein	63
+atoS	Signal transduction histidine-protein kinase AtoS	63
+fliP_2	hypothetical protein	63
+crl	Sigma factor-binding protein Crl	63
+group_7057	hypothetical protein	63
+group_7058	hypothetical protein	63
+dadA1_2	D-amino acid dehydrogenase 1	63
+der	GTPase Der	63
+iscX	Protein IscX	63
+tgt	Queuine tRNA-ribosyltransferase	63
+group_7074	hypothetical protein	63
+aceB	Malate synthase A	63
+pstB	Phosphate import ATP-binding protein PstB	63
+group_7078	hypothetical protein	63
+yqjC	Protein YqjC	63
+group_7080	hypothetical protein	63
+rcsC_1	Sensor histidine kinase RcsC	63
+mhqP	Putative oxidoreductase MhqP	63
+group_7083	hypothetical protein	63
+group_7084	hypothetical protein	63
+menH_1	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase	63
+group_7093	hypothetical protein	63
+group_7094	hypothetical protein	63
+tamA	Translocation and assembly module subunit TamA	63
+ytfP	Gamma-glutamylcyclotransferase family protein YtfP	63
+yfbR	5'-deoxynucleotidase YfbR	63
+glpG_1	Rhomboid protease GlpG	63
+ppiD	Peptidyl-prolyl cis-trans isomerase D	63
+hupB	DNA-binding protein HU-beta	63
+selO	Protein adenylyltransferase SelO	63
+group_7104	hypothetical protein	63
+group_7105	hypothetical protein	63
+mdh	Malate dehydrogenase	63
+rpmA	50S ribosomal protein L27	63
+yjjP	Inner membrane protein YjjP	63
+lptD	LPS-assembly protein LptD	63
+pykF	Pyruvate kinase I	63
+czcR	Transcriptional activator protein CzcR	63
+ubiH	2-octaprenyl-6-methoxyphenol hydroxylase	63
+group_7121	putative Fe(2 )-trafficking protein	63
+rssB_1	Regulator of RpoS	63
+cqsS	CAI-1 autoinducer sensor kinase/phosphatase CqsS	63
+aaaT_2	hypothetical protein	63
+leuO_3	HTH-type transcriptional regulator LeuO	63
+group_7132	hypothetical protein	63
+group_7134	hypothetical protein	63
+group_7136	hypothetical protein	63
+grxD	Glutaredoxin 4	63
+group_7138	hypothetical protein	63
+group_7139	hypothetical protein	63
+group_7140	hypothetical protein	63
+yeaD	Putative glucose-6-phosphate 1-epimerase	63
+mscS_1	hypothetical protein	63
+group_7143	hypothetical protein	63
+ybaN	Inner membrane protein YbaN	63
+purF	Amidophosphoribosyltransferase	63
+truA	tRNA pseudouridine synthase A	63
+asd2	Aspartate-semialdehyde dehydrogenase 2	63
+mlaA	Intermembrane phospholipid transport system lipoprotein MlaA	63
+group_7153	hypothetical protein	63
+malT_4	HTH-type transcriptional regulator MalT	63
+yihD	Protein YihD	63
+group_7160	hypothetical protein	63
+yidC	Membrane protein insertase YidC	63
+dnaA	Chromosomal replication initiator protein DnaA	63
+yigZ	IMPACT family member YigZ	63
+bfd	Bacterioferritin-associated ferredoxin	63
+argB	Acetylglutamate kinase	63
+oxyR_4	Hydrogen peroxide-inducible genes activator	63
+group_7175	hypothetical protein	63
+pspG	Phage shock protein G	63
+uhpT	Hexose-6-phosphate:phosphate antiporter	63
+modA	Molybdate-binding protein ModA	63
+modC	Molybdenum import ATP-binding protein ModC	63
+oprF_4	Peptidoglycan-associated lipoprotein	63
+dgcT_2	hypothetical protein	63
+glyA2	Serine hydroxymethyltransferase 2	63
+ttgG	Solvent efflux pump periplasmic linker SrpA	63
+group_7205	hypothetical protein	63
+group_7206	hypothetical protein	63
+putA	Bifunctional protein PutA	63
+hisQ	Histidine transport system permease protein HisQ	63
+ydaF_2	Putative ribosomal N-acetyltransferase YdaF	63
+thiK	Thiamine kinase	63
+group_7213	hypothetical protein	63
+group_7214	hypothetical protein	63
+udp_2	Uridine phosphorylase	63
+brnQ_1	Branched-chain amino acid transport system 2 carrier protein	63
+group_7227	HTH-type transcriptional activator RhaR	63
+yflN	hypothetical protein	63
+emrD	Multidrug resistance protein D	63
+group_7254	hypothetical protein	63
+nucA	Nuclease	63
+rlpA	Endolytic peptidoglycan transglycosylase RlpA	63
+ygaZ_1	hypothetical protein	63
+amyS	Alpha-amylase	63
+group_7263	hypothetical protein	63
+group_7264	hypothetical protein	63
+group_7266	hypothetical protein	63
+group_7271	hypothetical protein	63
+group_7276	hypothetical protein	63
+toxS	Transmembrane regulatory protein ToxS	63
+group_7279	hypothetical protein	63
+ybfF	Esterase YbfF	63
+rng	Ribonuclease G	63
+nit1	Deaminated glutathione amidase	63
+group_7291	hypothetical protein	63
+pldA_2	Phospholipase A1	63
+group_7334	hypothetical protein	63
+group_7335	hypothetical protein	63
+tusD	Sulfurtransferase TusD	63
+cat_1	Chloramphenicol acetyltransferase	63
+group_742	hypothetical protein	63
+group_7492	hypothetical protein	63
+nodD2_2	Nodulation protein D 2	63
+cysW_1	hypothetical protein	63
+holC	DNA polymerase III subunit chi	63
+tsaC	Threonylcarbamoyl-AMP synthase	63
+mdtL_3	Multidrug resistance protein MdtL	63
+group_755	hypothetical protein	63
+fabF_1	3-oxoacyl-[acyl-carrier-protein] synthase 2	63
+secD_2	Protein translocase subunit SecD	63
+group_7633	hypothetical protein	63
+phoB_2	hypothetical protein	63
+gshA	Glutamate--cysteine ligase	63
+group_7690	hypothetical protein	63
+group_7701	hypothetical protein	63
+nasD_2	Nitrite reductase [NAD(P)H]	63
+czcD	Cadmium, cobalt and zinc/H( )-K( ) antiporter	63
+argE	Acetylornithine deacetylase	63
+group_8093	hypothetical protein	63
+srkA	Stress response kinase A	63
+group_820	hypothetical protein	63
+hscA_2	Chaperone protein HscA	63
+frp	NADPH-flavin oxidoreductase	63
+dnaX	hypothetical protein	63
+group_8256	hypothetical protein	63
+rlmI_1	Ribosomal RNA large subunit methyltransferase I	63
+group_8289	hypothetical protein	63
+nagK	N-acetyl-D-glucosamine kinase	63
+psaA_1	hypothetical protein	63
+group_847	hypothetical protein	63
+group_849	hypothetical protein	63
+group_850	hypothetical protein	63
+resA	Thiol-disulfide oxidoreductase ResA	63
+napC_2	Cytochrome c-type protein NapC	63
+bmrA	Putative multidrug export ATP-binding/permease protein	63
+group_883	hypothetical protein	63
+group_887	Beta-barrel assembly-enhancing protease	63
+group_898	Putative 2-hydroxyacid dehydrogenase	63
+kdpD	Sensor protein KdpD	63
+group_923	hypothetical protein	63
+pcp	Pyrrolidone-carboxylate peptidase	63
+group_941	hypothetical protein	63
+group_942	hypothetical protein	63
+malT_3	HTH-type transcriptional regulator MalT	63
+group_952	hypothetical protein	63
+fabG_3	3-oxoacyl-[acyl-carrier-protein] reductase FabG	63
+group_959	hypothetical protein	63
+tam_2	hypothetical protein	63
+group_962	hypothetical protein	63
+gcvA_3	Glycine cleavage system transcriptional activator	63
+bltD_1	hypothetical protein	63
+ebgC	Evolved beta-galactosidase subunit beta	63
+group_971	hypothetical protein	63
+group_98	hypothetical protein	63
+ccmF_1	Cytochrome c-type biogenesis protein CcmF	63
+rsmA	Ribosomal RNA small subunit methyltransferase A	63
+group_999	hypothetical protein	63
